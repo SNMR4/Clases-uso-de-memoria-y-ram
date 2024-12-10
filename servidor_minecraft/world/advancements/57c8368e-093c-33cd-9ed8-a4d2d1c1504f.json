@@ -12543,6 +12543,12 @@
     },
     "done": true
   },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2024-12-10 08:26:01 +0000"
+    },
+    "done": true
+  },
   "totw_modded:derelict_grass_tower": {
     "criteria": {
       "derelict_grass": "2024-12-10 07:35:55 +0000"
@@ -12636,6 +12642,12 @@
   "biomancy:recipes/biomancy/decomposing/rocky_shell_decomposing": {
     "criteria": {
       "has_rocky_shell": "2024-12-10 06:11:08 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2024-12-10 08:33:35 +0000"
     },
     "done": true
   },
