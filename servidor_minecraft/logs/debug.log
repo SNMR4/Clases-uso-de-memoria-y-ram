@@ -11914,3 +11914,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 06:57:47.652] [Server thread/INFO] [Scaling Health/]: Blight Cave Creeper was killed by Draconic Evolution Grinder
 [10Dec2024 06:58:32.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 06:58:32.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 07:03:32.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 07:03:32.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 07:08:00.485] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:double_compressed_torcherino at 96, 63, -299.
+[10Dec2024 07:08:32.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 07:08:32.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 07:10:06.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[10Dec2024 07:10:06.538] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/azure/azurelib/core/object/PlayState
+[10Dec2024 07:10:21.212] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[10Dec2024 07:10:26.462] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[10Dec2024 07:10:26.466] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[10Dec2024 07:10:26.467] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[10Dec2024 07:10:26.472] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[10Dec2024 07:10:27.545] [Server thread/DEBUG] [ModernFix/]: Structure apotheosis:tower_sand is being run through DFU (hash 90c20e21ef2f3d25f12700aa4fdfc8a895af7bf67f9f7dcad7272b777f50fd71), this will cause launch time delays
+[10Dec2024 07:10:28.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[10Dec2024 07:12:32.395] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_part_0 is being run through DFU (hash 2c9ffcc34c925591d473c7457a436981055cb31f755343e045c50f9d8d013e75), this will cause launch time delays
+[10Dec2024 07:12:32.402] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_pillager_0 is being run through DFU (hash 5b954e6c9a153dc96aee542ae8e2813d5466cd4bdc9d7627224d581e8e589b37), this will cause launch time delays
+[10Dec2024 07:12:32.424] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_part_1 is being run through DFU (hash 3d16c532accd418b367cbe09e51d1891de4babcf4850540b09236f593188cfab), this will cause launch time delays
+[10Dec2024 07:12:32.427] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0 is being run through DFU (hash 1bdbb5904e08c005d77c14cf57dae04bc3b5c0b8f46bdaf5c0a9ae4bb5d4f0a6), this will cause launch time delays
