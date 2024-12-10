@@ -1871,3 +1871,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 05:30:50.552] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
 [10Dec2024 05:30:50.553] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [10Dec2024 05:30:50.554] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[10Dec2024 05:35:42.301] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[10Dec2024 05:40:36.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Flexible Schedule]
+[10Dec2024 05:41:16.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[10Dec2024 05:41:16.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[10Dec2024 05:41:37.271] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:55819] logged in with entity id 16760 at (308.58515506716293, -49.0, -45.67967983459341)
+[10Dec2024 05:41:37.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[10Dec2024 05:41:37.327] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[10Dec2024 05:41:37.327] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[10Dec2024 05:41:37.328] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[10Dec2024 05:48:10.356] [Server thread/INFO] [Scaling Health/]: Blight Mimic was killed by AkujinPas
+[10Dec2024 05:48:59.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['General Rick'/19520, l='ServerLevel[world]', x=371.30, y=-40.00, z=-140.53] died: General Rick was slain by AkujinPas

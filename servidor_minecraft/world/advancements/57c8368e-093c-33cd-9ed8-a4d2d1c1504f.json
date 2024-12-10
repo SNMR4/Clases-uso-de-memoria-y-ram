@@ -2471,6 +2471,7 @@
       "minecraft:spider": "2024-11-23 06:42:26 +0000",
       "minecraft:creeper": "2024-11-24 05:12:01 +0000",
       "minecraft:evoker": "2024-11-24 11:46:25 +0000",
+      "minecraft:slime": "2024-12-10 05:42:31 +0000",
       "minecraft:zombified_piglin": "2024-11-23 11:33:28 +0000",
       "minecraft:witch": "2024-11-23 09:54:36 +0000",
       "minecraft:wither_skeleton": "2024-11-26 07:24:49 +0000",
@@ -12332,12 +12333,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_deposit_upgrade": {
-    "criteria": {
-      "has_deposit_upgrade": "2024-12-10 04:33:15 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-10 04:23:14 +0000"
@@ -12416,12 +12411,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/soap/piston": {
-    "criteria": {
-      "has_sticky_piston": "2024-12-10 04:32:17 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-10 04:23:14 +0000"
@@ -12431,12 +12420,6 @@
   "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-10 04:23:14 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/turntable": {
-    "criteria": {
-      "has_alt_item": "2024-12-10 04:32:17 +0000"
     },
     "done": true
   },
@@ -12455,12 +12438,6 @@
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-10 04:23:14 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_restock_upgrade": {
-    "criteria": {
-      "has_restock_upgrade": "2024-12-10 04:32:34 +0000"
     },
     "done": true
   },
@@ -12509,6 +12486,48 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-10 04:23:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2024-12-10 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/turntable": {
+    "criteria": {
+      "has_alt_item": "2024-12-10 04:32:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_restock_upgrade": {
+    "criteria": {
+      "has_restock_upgrade": "2024-12-10 04:32:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_deposit_upgrade": {
+    "criteria": {
+      "has_deposit_upgrade": "2024-12-10 04:33:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2024-12-10 05:40:36 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/elastic_tendon_decomposing": {
+    "criteria": {
+      "has_elastic_tendon": "2024-12-10 05:40:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2024-12-10 05:43:21 +0000"
     },
     "done": true
   },
