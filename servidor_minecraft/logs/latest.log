@@ -1995,3 +1995,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 08:13:43.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid was slain by Ignis
 [10Dec2024 08:13:45.553] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [10Dec2024 08:13:45.554] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[10Dec2024 08:16:28.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid was slain by Ignis
+[10Dec2024 08:16:29.816] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 08:16:29.816] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Dec2024 08:20:13.245] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[10Dec2024 08:22:15.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
+[10Dec2024 08:22:49.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Lex_Ssuid: Location (107.37744438648224, 76.72989976406097, 118.8125) too far away from hit block BlockPos{x=108, y=76, z=118}.
+[10Dec2024 08:24:37.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> xaero-waypoint:Shared Location:S:253:65:397:12:false:0:Internal-the-nether-waypoints
