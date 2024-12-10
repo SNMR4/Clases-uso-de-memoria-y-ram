@@ -2013,3 +2013,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 08:31:12.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3191ms or 63 ticks behind
 [10Dec2024 08:33:35.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has completed the challenge [The Extinguished Fire]
 [10Dec2024 08:33:38.213] [Server thread/INFO] [Scaling Health/]: Blight Chaingunner has died
+[10Dec2024 08:39:53.651] [Server thread/INFO] [Scaling Health/]: Blight Chaingunner has died
+[10Dec2024 08:43:33.176] [Server thread/INFO] [Scaling Health/]: Blight Pillager was killed by AkujinPas
