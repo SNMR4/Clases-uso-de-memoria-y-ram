@@ -1824,3 +1824,36 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 04:33:30.955] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/deposit/DepositFilterType
 [10Dec2024 04:34:03.750] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
 [10Dec2024 05:05:28.803] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
+[10Dec2024 05:11:56.860] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[10Dec2024 05:11:58.659] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[10Dec2024 05:11:58.741] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[10Dec2024 05:11:58.753] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[10Dec2024 05:12:00.696] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/IBellConnections$BellConnection
+[10Dec2024 05:12:56.902] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [craftingautomat:network,fluidtank:main] rejected their client side version number
+[10Dec2024 05:12:56.903] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[10Dec2024 05:12:56.953] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a02d58a[id=<null>,name=Lex_Ssuid,properties={},legacy=false] (/127.190.169.193:58919) lost connection: Connection closed - mismatched mod channel list
+[10Dec2024 05:13:08.690] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[10Dec2024 05:13:11.402] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [craftingautomat:network,fluidtank:main] rejected their client side version number
+[10Dec2024 05:13:11.403] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[10Dec2024 05:13:11.449] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a2e69c6[id=<null>,name=Lex_Ssuid,properties={},legacy=false] (/127.190.169.193:55723) lost connection: Connection closed - mismatched mod channel list
+[10Dec2024 05:16:08.051] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[10Dec2024 05:17:17.996] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[10Dec2024 05:17:18.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[10Dec2024 05:17:25.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.190.169.193:42587] logged in with entity id 7522 at (102.91074395904016, 77.875, 119.95365556434848)
+[10Dec2024 05:17:25.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[10Dec2024 05:17:25.901] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
+[10Dec2024 05:17:25.901] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[10Dec2024 05:17:25.902] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[10Dec2024 05:17:54.336] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[10Dec2024 05:17:54.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> los mods son de filtro y el autocrafting
+[10Dec2024 05:17:54.878] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Captain Stefan the Doctor'/7615, l='ServerLevel[world]', x=105.30, y=76.12, z=123.06] died: Captain Stefan the Doctor was pummeled by Lex_Ssuid
+[10Dec2024 05:18:07.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> que?
+[10Dec2024 05:18:18.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> los ultimos que mande el otro día
+[10Dec2024 05:18:24.047] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[10Dec2024 05:18:26.466] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[10Dec2024 05:18:32.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> a si
+[10Dec2024 05:18:45.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> no me dejo entrar sin descargarlos
+[10Dec2024 05:18:58.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> eso si
+[10Dec2024 05:19:04.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> voy a dc
+[10Dec2024 05:19:23.540] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[10Dec2024 05:20:35.052] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
