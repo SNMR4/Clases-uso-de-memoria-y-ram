@@ -2015,3 +2015,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 08:33:38.213] [Server thread/INFO] [Scaling Health/]: Blight Chaingunner has died
 [10Dec2024 08:39:53.651] [Server thread/INFO] [Scaling Health/]: Blight Chaingunner has died
 [10Dec2024 08:43:33.176] [Server thread/INFO] [Scaling Health/]: Blight Pillager was killed by AkujinPas
+[10Dec2024 08:46:41.961] [Server thread/INFO] [Scaling Health/]: Blight Raccoon was killed by AkujinPas
+[10Dec2024 08:46:42.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Disconnected
+[10Dec2024 08:46:42.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
+[10Dec2024 08:53:23.701] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by AkujinPas
+[10Dec2024 08:54:55.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [This Must be a Sign!]
+[10Dec2024 08:55:47.051] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/180075, l='ServerLevel[world]', x=-1912.10, y=70.56, z=34.50] was struck by lightning LightningBolt['Lightning Bolt'/180916, l='ServerLevel[world]', x=-1912.99, y=70.56, z=34.42].
+[10Dec2024 08:55:47.052] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/180076, l='ServerLevel[world]', x=-1912.78, y=70.96, z=34.70] was struck by lightning LightningBolt['Lightning Bolt'/180916, l='ServerLevel[world]', x=-1912.99, y=70.56, z=34.42].
