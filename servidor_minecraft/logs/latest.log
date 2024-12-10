@@ -1971,3 +1971,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 07:38:41.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Convergent Evolution...]
 [10Dec2024 07:40:39.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved too quickly! -8.990680438393383,13.918795417913557,6.859621788703407
 [10Dec2024 07:43:46.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/73929, l='ServerLevel[world]', x=113.05, y=71.30, z=-21.40] died: Honeyed Archer suffocated in a wall
+[10Dec2024 07:47:01.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [A breath of fresh air]
+[10Dec2024 07:48:24.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/65302, l='ServerLevel[world]', x=5.99, y=108.28, z=219.38] died: Honeyed Archer suffocated in a wall
+[10Dec2024 07:52:13.699] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[10Dec2024 07:52:25.714] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ignis_Entity$Crackiness

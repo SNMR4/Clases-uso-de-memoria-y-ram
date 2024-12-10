@@ -12158,3 +12158,36 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 07:43:32.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 07:43:32.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Dec2024 07:43:46.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/73929, l='ServerLevel[world]', x=113.05, y=71.30, z=-21.40] died: Honeyed Archer suffocated in a wall
+[10Dec2024 07:44:55.602] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[10Dec2024 07:44:55.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[10Dec2024 07:45:02.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[10Dec2024 07:45:03.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of domesticationinnovation:snowy_petshop
+[10Dec2024 07:45:16.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[10Dec2024 07:45:16.292] [Server thread/DEBUG] [ModernFix/]: Structure aquamirae:stone is being run through DFU (hash 0ebb221e12ddd320d4659cf7eea5dcf0c5be0e806a83170385a8f6a394ca598e), this will cause launch time delays
+[10Dec2024 07:45:16.422] [Server thread/DEBUG] [ModernFix/]: Structure aquamirae:blank is being run through DFU (hash 77d4ffd36ad5c1456457a872d2ef0cb682d0cfcdf9129c8ab02bbc6829553194), this will cause launch time delays
+[10Dec2024 07:45:17.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[10Dec2024 07:45:23.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/tower_bottom
+[10Dec2024 07:45:23.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
+[10Dec2024 07:45:25.611] [Server thread/DEBUG] [ModernFix/]: Structure aquamirae:tower is being run through DFU (hash 162e47110c363b3c9d04969a80abb02fe09fd4bafa0c01bd051b22828d2cba01), this will cause launch time delays
+[10Dec2024 07:45:25.993] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[10Dec2024 07:45:27.639] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[10Dec2024 07:45:32.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[10Dec2024 07:46:54.226] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[10Dec2024 07:47:01.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [A breath of fresh air]
+[10Dec2024 07:48:24.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/65302, l='ServerLevel[world]', x=5.99, y=108.28, z=219.38] died: Honeyed Archer suffocated in a wall
+[10Dec2024 07:48:32.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 07:48:32.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 07:52:09.167] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=160, y=69, z=118} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[10Dec2024 07:52:09.285] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena1 is being run through DFU (hash 1639040beee09f9270c31ac18907488c49bd397a20e3cf2e438ddeeeb2a4b5dc), this will cause launch time delays
+[10Dec2024 07:52:09.503] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena2 is being run through DFU (hash 3619c39a998b48ce06040cb5b2cd343bf9ebb514c9578b21882ce044438e23c0), this will cause launch time delays
+[10Dec2024 07:52:09.747] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena3 is being run through DFU (hash 86c0909e2efdb6293e471f96d6a14904efe4cb59b0c7d84784c34ba3ae92ce61), this will cause launch time delays
+[10Dec2024 07:52:09.898] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena4 is being run through DFU (hash 19fb2fa64aba37fa7dce14e6f4d54e3546f3efb7b8bb2e4fe7f6973f9aebc221), this will cause launch time delays
+[10Dec2024 07:52:10.081] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena5 is being run through DFU (hash 8fcc215c44a596a3ba2d8c554756d778b07bbbe23d17eccf3248d6e29a726b99), this will cause launch time delays
+[10Dec2024 07:52:10.280] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena6 is being run through DFU (hash 9384404d650a6664a7cb9870face813a55ea722abd34dd69732d681c50690141), this will cause launch time delays
+[10Dec2024 07:52:10.429] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena7 is being run through DFU (hash 9870666c6e554ecb0ab1c818a2fe78f966bfcfbb665a5dae552e96f4ec572290), this will cause launch time delays
+[10Dec2024 07:52:10.537] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena8 is being run through DFU (hash 1ef7866efb08c91acd64618129097e5b9b7ab7232a4984a255eb435ee18b0cda), this will cause launch time delays
+[10Dec2024 07:52:11.938] [Server thread/DEBUG] [ModernFix/]: Structure bosses_of_mass_destruction:gauntlet_arena/base is being run through DFU (hash 0d871524445703c1a906ae6c3ac7e4ca8da8c54137a1bee15180b207637d0493), this will cause launch time delays
+[10Dec2024 07:52:13.699] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[10Dec2024 07:52:25.714] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ignis_Entity$Crackiness
+[10Dec2024 07:53:32.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 07:53:32.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

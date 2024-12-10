@@ -12603,6 +12603,12 @@
     },
     "done": false
   },
+  "totw_modded:regular_tower": {
+    "criteria": {
+      "regular": "2024-12-10 07:47:01 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/tarantula_hawk_wing_fragment_decomposing": {
     "criteria": {
       "has_tarantula_hawk_wing_fragment": "2024-12-10 07:26:59 +0000"
