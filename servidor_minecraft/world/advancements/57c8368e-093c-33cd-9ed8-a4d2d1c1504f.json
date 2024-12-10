@@ -12571,6 +12571,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2024-12-10 07:14:22 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/rocky_shell_decomposing": {
     "criteria": {
       "has_rocky_shell": "2024-12-10 06:11:08 +0000"
