@@ -11641,3 +11641,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 05:48:32.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Dec2024 05:48:59.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['General Rick'/19520, l='ServerLevel[world]', x=371.30, y=-40.00, z=-140.53] died: General Rick was slain by AkujinPas
 [10Dec2024 05:51:05.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[10Dec2024 05:53:32.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:53:32.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 05:54:05.439] [Server thread/DEBUG] [mixin/]: Mixing CrashReportSectionMixin from neruina.mixins.json into net.minecraft.CrashReportCategory
+[10Dec2024 05:55:52.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Quite the Renovation]
+[10Dec2024 05:58:32.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:58:32.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 06:01:30.577] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex

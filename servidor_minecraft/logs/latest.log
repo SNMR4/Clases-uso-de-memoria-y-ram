@@ -1882,3 +1882,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 05:41:37.328] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
 [10Dec2024 05:48:10.356] [Server thread/INFO] [Scaling Health/]: Blight Mimic was killed by AkujinPas
 [10Dec2024 05:48:59.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['General Rick'/19520, l='ServerLevel[world]', x=371.30, y=-40.00, z=-140.53] died: General Rick was slain by AkujinPas
+[10Dec2024 05:55:52.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Quite the Renovation]
+[10Dec2024 06:01:30.577] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
