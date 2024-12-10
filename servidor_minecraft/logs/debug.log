@@ -12217,3 +12217,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 08:04:07.479] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [10Dec2024 08:04:07.503] [Server thread/DEBUG] [twilightforest/]: Player Lex_Ssuid (9e7dcda3-0745-3755-b058-30d2fc1816ac) respawned and received items held in storage
 [10Dec2024 08:04:24.324] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=160, y=69, z=118} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[10Dec2024 08:04:55.177] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=141, y=54, z=288} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[10Dec2024 08:05:42.665] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=160, y=69, z=118} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[10Dec2024 08:06:00.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! -7.214106938076867,-11.0,3.3435851903079197
+[10Dec2024 08:07:10.003] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=141, y=54, z=288} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[10Dec2024 08:08:36.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 08:08:36.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 08:12:46.947] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=160, y=69, z=118} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[10Dec2024 08:13:36.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 08:13:36.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 08:13:43.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid was slain by Ignis
+[10Dec2024 08:13:45.553] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 08:13:45.554] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[10Dec2024 08:13:45.570] [Server thread/DEBUG] [twilightforest/]: Player Lex_Ssuid (9e7dcda3-0745-3755-b058-30d2fc1816ac) respawned and received items held in storage
+[10Dec2024 08:14:08.371] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=160, y=69, z=118} in ResourceKey[minecraft:dimension / minecraft:overworld]

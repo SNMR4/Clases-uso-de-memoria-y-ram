@@ -1991,3 +1991,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 08:04:05.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid tried to swim in lava to escape Ignis
 [10Dec2024 08:04:07.461] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [10Dec2024 08:04:07.479] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Dec2024 08:06:00.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! -7.214106938076867,-11.0,3.3435851903079197
+[10Dec2024 08:13:43.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid was slain by Ignis
+[10Dec2024 08:13:45.553] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 08:13:45.554] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty

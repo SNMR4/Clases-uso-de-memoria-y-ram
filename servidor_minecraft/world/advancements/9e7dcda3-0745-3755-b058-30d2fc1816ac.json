@@ -6563,9 +6563,10 @@
   },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
-      "has_parent_recipe": "2024-11-24 09:06:09 +0000"
+      "has_parent_recipe": "2024-11-24 09:06:09 +0000",
+      "has_items": "2024-12-10 08:08:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
@@ -10651,6 +10652,7 @@
   "enigmaticlegacy:book/relics/the_cube": {
     "criteria": {
       "has_item_1": "2024-11-28 07:49:13 +0000",
+      "has_item_5": "2024-12-10 08:08:37 +0000",
       "has_item_4": "2024-12-02 00:06:35 +0000"
     },
     "done": false
@@ -10658,7 +10660,8 @@
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
       "spellstone1": "2024-11-28 07:49:13 +0000",
-      "spellstone4": "2024-12-02 00:06:35 +0000"
+      "spellstone4": "2024-12-02 00:06:35 +0000",
+      "spellstone5": "2024-12-10 08:08:37 +0000"
     },
     "done": false
   },
@@ -12192,6 +12195,24 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/escape_scroll": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 08:08:37 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/end_anchor": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 08:08:37 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/eye_of_nebula": {
+    "criteria": {
+      "has_items": "2024-12-10 08:08:37 +0000"
+    },
+    "done": true
+  },
   "fluidtank:recipes/tank/tank_gold": {
     "criteria": {
       "has_forge_ingots/gold": "2024-12-10 05:21:26 +0000"
@@ -12207,6 +12228,12 @@
   "fluidtank:recipes/tank/tank_stone": {
     "criteria": {
       "has_forge_stone": "2024-12-10 07:43:26 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/end_anchor": {
+    "criteria": {
+      "has_items": "2024-12-10 08:08:37 +0000"
     },
     "done": true
   },
