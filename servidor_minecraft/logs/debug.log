@@ -12422,3 +12422,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 08:59:48.708] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/180166, l='ServerLevel[world]', x=-1943.70, y=66.40, z=28.01] was struck by lightning LightningBolt['Lightning Bolt'/182182, l='ServerLevel[world]', x=-1943.45, y=66.00, z=27.28].
 [10Dec2024 09:03:41.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 09:03:41.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 09:08:41.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 09:08:41.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 09:08:42.555] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/186298, l='ServerLevel[world]', x=-1469.70, y=88.40, z=578.30] was struck by lightning LightningBolt['Lightning Bolt'/186956, l='ServerLevel[world]', x=-1469.34, y=88.00, z=578.37].
+[10Dec2024 09:10:09.708] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/186261, l='ServerLevel[world]', x=-1485.80, y=78.56, z=543.55] was struck by lightning LightningBolt['Lightning Bolt'/187520, l='ServerLevel[world]', x=-1483.42, y=79.00, z=545.05].
+[10Dec2024 09:10:09.709] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/186260, l='ServerLevel[world]', x=-1483.30, y=79.40, z=544.81] was struck by lightning LightningBolt['Lightning Bolt'/187520, l='ServerLevel[world]', x=-1483.42, y=79.00, z=545.05].
+[10Dec2024 09:13:41.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 09:13:41.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 09:15:24.326] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:double_compressed_torcherino at 131, 92, -135.
+[10Dec2024 09:16:06.846] [Server thread/INFO] [Scaling Health/]: Blight Witch was killed by Draconic Evolution Grinder
