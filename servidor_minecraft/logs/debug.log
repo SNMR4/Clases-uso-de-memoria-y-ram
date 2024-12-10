@@ -12021,3 +12021,140 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 07:33:21.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
 [10Dec2024 07:33:32.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 07:33:32.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 07:34:39.638] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_5 is being run through DFU (hash f51dae16c51027e54c0d05189ad7f4ab570be0998ca7373227854d05ab73788c), this will cause launch time delays
+[10Dec2024 07:34:39.721] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_3 is being run through DFU (hash baeffdbe67cd9b5ca7a7312a80ffa5dafa459526e809d446b9c3b19225da81c1), this will cause launch time delays
+[10Dec2024 07:34:39.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[10Dec2024 07:34:39.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[10Dec2024 07:34:39.919] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_0 is being run through DFU (hash f1300531218d9ff732065c9f8ca642b4b44a6e3f501632ab0e1c61e6acdb4bfa), this will cause launch time delays
+[10Dec2024 07:34:40.725] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/tower_bottom
+[10Dec2024 07:34:40.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
+[10Dec2024 07:35:01.472] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_2 is being run through DFU (hash b4e6d6f8adb4631444b85f90fc9b38f3655d064b45331df77d1c5382a9ca4066), this will cause launch time delays
+[10Dec2024 07:35:01.589] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_2 is being run through DFU (hash 9e1c91ef32150cb3905faf1749d9b2808c6a422b66f325c8868015cb7f7c5db7), this will cause launch time delays
+[10Dec2024 07:35:01.672] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[10Dec2024 07:35:04.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[10Dec2024 07:35:09.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved too quickly! 17.737807202510794,2.614023939665529,2.7710189418586424
+[10Dec2024 07:35:09.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[10Dec2024 07:35:11.136] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[10Dec2024 07:35:11.160] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[10Dec2024 07:35:11.263] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[10Dec2024 07:35:11.280] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[10Dec2024 07:35:11.288] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[10Dec2024 07:35:14.713] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[10Dec2024 07:35:18.650] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[10Dec2024 07:35:18.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[10Dec2024 07:35:18.824] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_straight_0 is being run through DFU (hash 0255d0be940bbb3d61ac3137a7ed12e4ed750cc899abd459ea6da5737f2fc3ee), this will cause launch time delays
+[10Dec2024 07:35:18.906] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_spawner_skeleton_3 is being run through DFU (hash a481889cd1e8d7c40c23dcd34c100dbe2db2465fa70cee3440060291f81c98f0), this will cause launch time delays
+[10Dec2024 07:35:18.966] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_turn_0 is being run through DFU (hash e25d526a570fcd152c18558d5226a2f763e58a6bcb4c84a917fa966e79de7140), this will cause launch time delays
+[10Dec2024 07:35:19.027] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_spawner_skeleton_2 is being run through DFU (hash ac4d6c639a806f188581433888f7af3bbc18a30f6901df21e8e73191a1a18bcc), this will cause launch time delays
+[10Dec2024 07:35:19.050] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_triple_0 is being run through DFU (hash b7d207f9e9204ae5d8d65d8199c23198e1b71579ed216248201d64790d7cf759), this will cause launch time delays
+[10Dec2024 07:35:19.119] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_spawner_skeleton_1 is being run through DFU (hash e6df13eaef7a74d1965f3de3582b471f6b1f770df1b94c1df9dfeba244bd2588), this will cause launch time delays
+[10Dec2024 07:35:19.123] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_spawner_skeleton_0 is being run through DFU (hash a35634cc515a1421774eecdd8a3a872dc15e3a6d258bfd10ca7320f120db80e1), this will cause launch time delays
+[10Dec2024 07:35:19.655] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[10Dec2024 07:35:37.676] [Server thread/DEBUG] [ModernFix/]: Structure totw_modded:derelict_grass/derelict_grass_tower_bottom is being run through DFU (hash 4999a37ad8ae26ec0da9c717b8c354e9e996d52194a41950cc411fce2da50703), this will cause launch time delays
+[10Dec2024 07:35:37.824] [Server thread/DEBUG] [ModernFix/]: Structure totw_modded:derelict_grass/waystone_derelict_grass_tower_top is being run through DFU (hash 8d308369c4a45e87f9439ff7c4d17fa3c0283759adcedc76422bbcf4f25d4e67), this will cause launch time delays
+[10Dec2024 07:35:38.336] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[10Dec2024 07:35:39.398] [Server thread/DEBUG] [ModernFix/]: Structure iceandfire:mausoleum/building is being run through DFU (hash 2334374839732f1599cf9b287f7fd21e55344822fabc0f71f67a08f4e92454ab), this will cause launch time delays
+[10Dec2024 07:35:39.486] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[10Dec2024 07:35:39.488] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[10Dec2024 07:35:39.677] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[10Dec2024 07:35:41.387] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[10Dec2024 07:35:51.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[10Dec2024 07:35:51.939] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[10Dec2024 07:35:52.756] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[10Dec2024 07:35:53.693] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[10Dec2024 07:35:55.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [A trip to the Countryside]
+[10Dec2024 07:36:29.841] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[10Dec2024 07:36:29.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of domesticationinnovation:plains_petshop
+[10Dec2024 07:36:29.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[10Dec2024 07:36:49.304] [Server thread/DEBUG] [ModernFix/]: Structure domesticationinnovation:snowy_petshop is being run through DFU (hash 3fca7ce35aed41cffd1be2236f37e113ae43996b5745c2573c4352afe66aad23), this will cause launch time delays
+[10Dec2024 07:36:58.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved too quickly! 17.017783461734894,-3.981001074102778,-6.162332124148861
+[10Dec2024 07:37:05.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[10Dec2024 07:37:05.089] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[10Dec2024 07:37:05.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[10Dec2024 07:37:06.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[10Dec2024 07:37:07.568] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[10Dec2024 07:37:17.176] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[10Dec2024 07:37:19.488] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 07:37:23.732] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[10Dec2024 07:37:25.280] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[10Dec2024 07:37:26.570] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[10Dec2024 07:37:31.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[10Dec2024 07:37:32.441] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[10Dec2024 07:37:36.460] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[10Dec2024 07:37:36.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_straight_0
+[10Dec2024 07:37:36.490] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_3
+[10Dec2024 07:37:36.524] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_turn_0
+[10Dec2024 07:37:36.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_2
+[10Dec2024 07:37:36.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[10Dec2024 07:37:36.618] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_1
+[10Dec2024 07:37:36.619] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_0
+[10Dec2024 07:37:46.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Radius changed to 1000.
+[10Dec2024 07:37:58.164] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/popcraft/chunky/util/TaskLoader$TaskProperty
+[10Dec2024 07:37:58.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task started in minecraft:overworld for the square region centered at 0, 0 with radius 1000.
+[10Dec2024 07:37:58.276] [IO-Worker-246/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1090 chunks (6.76%), ETA: 0:00:01, Rate: 10900.0 cps, Current: 26, 15
+[10Dec2024 07:37:59.276] [IO-Worker-246/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5157 chunks (31.97%), ETA: 0:00:02, Rate: 4683.9 cps, Current: -28, 6
+[10Dec2024 07:38:00.277] [IO-Worker-246/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9334 chunks (57.87%), ETA: 0:00:01, Rate: 4440.5 cps, Current: 35, -39
+[10Dec2024 07:38:01.278] [IO-Worker-253/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 11981 chunks (74.28%), ETA: 0:00:01, Rate: 3861.1 cps, Current: -7, -58
+[10Dec2024 07:38:02.279] [IO-Worker-253/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 14145 chunks (87.70%), ETA: 0:00:00, Rate: 3446.6 cps, Current: -33, -1
+[10Dec2024 07:38:03.088] [IO-Worker-253/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task finished for minecraft:overworld. Processed: 16129 chunks (100.00%), Total time: 0:00:04
+[10Dec2024 07:38:23.038] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[10Dec2024 07:38:29.567] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[10Dec2024 07:38:32.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 07:38:32.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 07:38:33.878] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[10Dec2024 07:38:35.187] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 07:38:36.403] [Worker-Main-1/DEBUG] [ModernFix/]: Structure aquamirae:lore/shelter/tunnel_top is being run through DFU (hash 484eb51b71f183df4e8682103e43451fdd642b567f9e1ee2ec047fa2f36954ee), this will cause launch time delays
+[10Dec2024 07:38:41.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Convergent Evolution...]
+[10Dec2024 07:39:00.617] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[10Dec2024 07:39:04.972] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[10Dec2024 07:39:07.985] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[10Dec2024 07:39:11.361] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[10Dec2024 07:39:11.372] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[10Dec2024 07:39:11.374] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[10Dec2024 07:39:13.917] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[10Dec2024 07:39:53.058] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[10Dec2024 07:39:53.065] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[10Dec2024 07:39:56.819] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[10Dec2024 07:39:57.790] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[10Dec2024 07:39:57.809] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_0 is being run through DFU (hash 36e5928c5fc5ff62065dfe140c9fd2681404c13c077424a9d53232844b7bf0cf), this will cause launch time delays
+[10Dec2024 07:39:57.845] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_2 is being run through DFU (hash fef74d5a67f077b093772e564c05a16e782b5be427b6ff15de14e17ef33dfa47), this will cause launch time delays
+[10Dec2024 07:39:57.899] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_middle_1 is being run through DFU (hash fe672689b21f69589b4a1ae8f54a24854930d47730a3e262edaf1fb03c91221e), this will cause launch time delays
+[10Dec2024 07:39:58.089] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[10Dec2024 07:39:58.096] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_1 is being run through DFU (hash 1743dc95d02dad52d37e440c2939326a0b355e55b3fd8b4ec8abc5d00123ad10), this will cause launch time delays
+[10Dec2024 07:39:58.163] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_4 is being run through DFU (hash b659f3c9823f98408b37a1c703f780d12cd034dd71c3c7eff72bed23d356958e), this will cause launch time delays
+[10Dec2024 07:39:58.179] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_0 is being run through DFU (hash f4fd272fc03cccba32d37cd75322fc6181341d971dd898fef76b9f654ffb339e), this will cause launch time delays
+[10Dec2024 07:39:58.216] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[10Dec2024 07:39:58.231] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[10Dec2024 07:39:58.239] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_1 is being run through DFU (hash bf1fe6d05f4bdf12b33740f4faf9d25c701fe0a54a385776ecc0401c15fa8956), this will cause launch time delays
+[10Dec2024 07:39:58.263] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[10Dec2024 07:39:58.264] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[10Dec2024 07:39:58.279] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[10Dec2024 07:39:58.298] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[10Dec2024 07:39:58.325] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[10Dec2024 07:40:01.762] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[10Dec2024 07:40:01.787] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/derelict_grass_tower_bottom
+[10Dec2024 07:40:01.794] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/waystone_derelict_grass_tower_top
+[10Dec2024 07:40:04.667] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[10Dec2024 07:40:10.884] [Worker-Main-9/DEBUG] [ModernFix/]: Structure domesticationinnovation:taiga_petshop is being run through DFU (hash df5b3f14401c78915695ce62a2d8f01fe392914646ceb3dafebf13a1397e287d), this will cause launch time delays
+[10Dec2024 07:40:10.928] [Worker-Main-9/DEBUG] [ModernFix/]: Structure iceandfire:village/taiga_scriber_1 is being run through DFU (hash 46cb42baa6f67fe14d959fb0ea6208ae9fb55c570235dea6c716e52055308238), this will cause launch time delays
+[10Dec2024 07:40:11.069] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[10Dec2024 07:40:11.084] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[10Dec2024 07:40:39.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved too quickly! -8.990680438393383,13.918795417913557,6.859621788703407
+[10Dec2024 07:40:41.425] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[10Dec2024 07:40:43.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[10Dec2024 07:40:51.538] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_0 is being run through DFU (hash 1497612195e1c3437613f4a0b399542740027b53e57da6c7c6051fe69c109053), this will cause launch time delays
+[10Dec2024 07:40:51.557] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_skeleton_ranged_0 is being run through DFU (hash 4ca373a4e9dcf3dc7fa79b707b45035f42293ac8c2cb7b17dae98a8a807dc262), this will cause launch time delays
+[10Dec2024 07:40:51.561] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_0 is being run through DFU (hash 32f893293d78dce1cfecdba96de1eae147ac768abd03e5bf576eb713714011f2), this will cause launch time delays
+[10Dec2024 07:40:51.565] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_4 is being run through DFU (hash 4e3d43f4265ada6b7d04c8e0e4d600518a9022f0976b906999ef71b82ac454e9), this will cause launch time delays
+[10Dec2024 07:40:51.584] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_3 is being run through DFU (hash 3fe650034339e7f0ca054ff6db4df41a21cbd3b06735b87ec8d667c133a1c188), this will cause launch time delays
+[10Dec2024 07:40:51.611] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_1 is being run through DFU (hash 1b76022040df1733fa807a501281a93fdc996931b659899e009d837d595dfe05), this will cause launch time delays
+[10Dec2024 07:40:51.625] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_1 is being run through DFU (hash f202523e30759d1064e4ab162d096bd7835e2e9aa4462a9bd88a57347dc46803), this will cause launch time delays
+[10Dec2024 07:40:51.629] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_7 is being run through DFU (hash ef12328f6ceb0d5c1f6c9e3a1c80eef1b4f3a271709a8489ab973d7c4931af5c), this will cause launch time delays
+[10Dec2024 07:40:51.640] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_5 is being run through DFU (hash b332640dea1132e9352eea28e19f909df46c3eb44d75ad4bda45be7a97896f08), this will cause launch time delays
+[10Dec2024 07:40:51.659] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_2 is being run through DFU (hash 93781b295d0623765f2c609cf4bf6765a449ac39f3c3c55b5426812aaf237ddc), this will cause launch time delays
+[10Dec2024 07:40:51.676] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_6 is being run through DFU (hash e64d34656107447cbcdbfd29cc666c2218b3fe430c6cfcd2aa791cb61e3c42d7), this will cause launch time delays
+[10Dec2024 07:40:58.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/tower_bottom
+[10Dec2024 07:40:58.431] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
+[10Dec2024 07:43:32.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 07:43:32.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 07:43:46.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/73929, l='ServerLevel[world]', x=113.05, y=71.30, z=-21.40] died: Honeyed Archer suffocated in a wall

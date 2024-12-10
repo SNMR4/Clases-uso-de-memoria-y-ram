@@ -320,8 +320,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-10 07:36:28 +0000",
       "woodland": "2024-11-28 08:32:35 +0000",
       "shrubland": "2024-11-22 06:24:34 +0000",
+      "snowblossom_grove": "2024-12-10 07:36:57 +0000",
       "rocky_shrubland": "2024-11-22 06:25:26 +0000",
       "scrubland": "2024-11-27 08:03:22 +0000",
       "fungal_jungle": "2024-11-28 08:34:10 +0000",
@@ -335,6 +337,7 @@
       "old_growth_woodland": "2024-11-27 08:04:12 +0000",
       "maple_woods": "2024-11-22 07:22:03 +0000",
       "orchard": "2024-11-23 07:16:19 +0000",
+      "field": "2024-12-10 07:35:02 +0000",
       "mediterranean_forest": "2024-11-27 08:03:23 +0000",
       "coniferous_forest": "2024-11-22 07:26:31 +0000",
       "spider_nest": "2024-11-25 05:39:23 +0000",
@@ -352,11 +355,13 @@
       "pumpkin_patch": "2024-11-23 07:14:08 +0000",
       "grassland": "2024-11-22 06:23:19 +0000",
       "prairie": "2024-12-05 02:25:11 +0000",
+      "snowy_fir_clearing": "2024-12-10 07:37:05 +0000",
       "tundra": "2024-11-25 07:41:13 +0000",
       "glowing_grotto": "2024-11-22 08:16:57 +0000",
       "undergrowth": "2024-11-29 05:04:49 +0000",
       "rainforest": "2024-11-28 08:30:57 +0000",
       "crag": "2024-11-24 10:08:26 +0000",
+      "snowy_maple_woods": "2024-12-10 07:36:59 +0000",
       "ominous_woods": "2024-11-29 06:04:27 +0000"
     },
     "done": false
@@ -587,6 +592,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-11-24 10:56:43 +0000",
+      "minecraft:taiga": "2024-12-10 07:35:10 +0000",
       "minecraft:frozen_river": "2024-11-25 07:32:04 +0000",
       "minecraft:cherry_grove": "2024-11-23 07:23:35 +0000",
       "minecraft:sunflower_plains": "2024-12-07 07:02:55 +0000",
@@ -603,6 +609,8 @@
       "minecraft:lukewarm_ocean": "2024-11-27 08:04:47 +0000",
       "minecraft:stony_shore": "2024-11-22 06:23:07 +0000",
       "minecraft:dripstone_caves": "2024-12-10 06:06:43 +0000",
+      "minecraft:snowy_taiga": "2024-12-10 07:36:24 +0000",
+      "minecraft:cold_ocean": "2024-12-10 07:39:51 +0000",
       "minecraft:forest": "2024-11-22 07:24:31 +0000",
       "minecraft:lush_caves": "2024-11-22 09:37:21 +0000",
       "minecraft:ice_spikes": "2024-11-24 10:56:37 +0000",
@@ -12535,9 +12543,27 @@
     },
     "done": true
   },
+  "totw_modded:derelict_grass_tower": {
+    "criteria": {
+      "derelict_grass": "2024-12-10 07:35:55 +0000"
+    },
+    "done": true
+  },
   "apotheosis:spawner/conditions": {
     "criteria": {
       "modifier": "2024-12-10 06:55:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2024-12-10 07:41:02 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/banana_slug_slime_decomposing": {
+    "criteria": {
+      "has_banana_slug_slime": "2024-12-10 07:38:42 +0000"
     },
     "done": true
   },
@@ -12580,6 +12606,12 @@
   "biomancy:recipes/biomancy/decomposing/tarantula_hawk_wing_fragment_decomposing": {
     "criteria": {
       "has_tarantula_hawk_wing_fragment": "2024-12-10 07:26:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2024-12-10 07:38:41 +0000"
     },
     "done": true
   },

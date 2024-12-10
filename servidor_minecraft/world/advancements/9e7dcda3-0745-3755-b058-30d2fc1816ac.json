@@ -12204,9 +12204,21 @@
     },
     "done": true
   },
+  "fluidtank:recipes/tank/tank_stone": {
+    "criteria": {
+      "has_forge_stone": "2024-12-10 07:43:26 +0000"
+    },
+    "done": true
+  },
   "craftingautomat:recipes/redstone/autocrafter": {
     "criteria": {
       "has_end_stone": "2024-12-10 05:17:25 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_diamond": {
+    "criteria": {
+      "has_forge_gems/diamond": "2024-12-10 07:42:05 +0000"
     },
     "done": true
   },

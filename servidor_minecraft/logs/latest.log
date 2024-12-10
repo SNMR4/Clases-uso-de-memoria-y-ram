@@ -1956,3 +1956,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 07:30:51.855] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/74428, l='ServerLevel[world]', x=656.66, y=65.40, z=198.30] was struck by lightning LightningBolt['Lightning Bolt'/74953, l='ServerLevel[world]', x=657.40, y=65.00, z=198.62].
 [10Dec2024 07:31:20.470] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/74497, l='ServerLevel[world]', x=676.50, y=66.00, z=205.03] died, message: 'Leatherworker was slain by AkujinPas'
 [10Dec2024 07:32:06.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/74427, l='ServerLevel[world]', x=700.70, y=63.90, z=185.42] was struck by lightning LightningBolt['Lightning Bolt'/75375, l='ServerLevel[world]', x=699.78, y=63.50, z=185.24].
+[10Dec2024 07:35:09.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved too quickly! 17.737807202510794,2.614023939665529,2.7710189418586424
+[10Dec2024 07:35:55.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [A trip to the Countryside]
+[10Dec2024 07:36:58.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved too quickly! 17.017783461734894,-3.981001074102778,-6.162332124148861
+[10Dec2024 07:37:46.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Radius changed to 1000.
+[10Dec2024 07:37:58.164] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/popcraft/chunky/util/TaskLoader$TaskProperty
+[10Dec2024 07:37:58.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task started in minecraft:overworld for the square region centered at 0, 0 with radius 1000.
+[10Dec2024 07:37:58.276] [IO-Worker-246/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1090 chunks (6.76%), ETA: 0:00:01, Rate: 10900.0 cps, Current: 26, 15
+[10Dec2024 07:37:59.276] [IO-Worker-246/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 5157 chunks (31.97%), ETA: 0:00:02, Rate: 4683.9 cps, Current: -28, 6
+[10Dec2024 07:38:00.277] [IO-Worker-246/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9334 chunks (57.87%), ETA: 0:00:01, Rate: 4440.5 cps, Current: 35, -39
+[10Dec2024 07:38:01.278] [IO-Worker-253/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 11981 chunks (74.28%), ETA: 0:00:01, Rate: 3861.1 cps, Current: -7, -58
+[10Dec2024 07:38:02.279] [IO-Worker-253/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 14145 chunks (87.70%), ETA: 0:00:00, Rate: 3446.6 cps, Current: -33, -1
+[10Dec2024 07:38:03.088] [IO-Worker-253/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task finished for minecraft:overworld. Processed: 16129 chunks (100.00%), Total time: 0:00:04
+[10Dec2024 07:38:41.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Convergent Evolution...]
+[10Dec2024 07:40:39.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved too quickly! -8.990680438393383,13.918795417913557,6.859621788703407
+[10Dec2024 07:43:46.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/73929, l='ServerLevel[world]', x=113.05, y=71.30, z=-21.40] died: Honeyed Archer suffocated in a wall
