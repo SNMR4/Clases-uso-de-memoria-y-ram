@@ -1857,3 +1857,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 05:19:04.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> voy a dc
 [10Dec2024 05:19:23.540] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [10Dec2024 05:20:35.052] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[10Dec2024 05:21:01.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[10Dec2024 05:21:44.441] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[10Dec2024 05:21:44.443] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[10Dec2024 05:22:10.303] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[10Dec2024 05:23:33.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> tienes espada electrica?
+[10Dec2024 05:23:41.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> no
+[10Dec2024 05:28:49.195] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/107, l='ServerLevel[world]', x=175.83, y=137.39, z=287.83] died: Honeyed Archer burned to death
+[10Dec2024 05:30:32.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[10Dec2024 05:30:32.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[10Dec2024 05:30:50.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:60815] logged in with entity id 13182 at (70.21815025481446, 36.0, -156.6744072948863)
+[10Dec2024 05:30:50.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[10Dec2024 05:30:50.552] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[10Dec2024 05:30:50.553] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[10Dec2024 05:30:50.554] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
