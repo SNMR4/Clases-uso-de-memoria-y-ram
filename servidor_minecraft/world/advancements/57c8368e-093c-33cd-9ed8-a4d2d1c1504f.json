@@ -12553,6 +12553,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-12-10 07:20:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2024-12-10 07:26:46 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dripstone_corner_trim": {
     "criteria": {
       "has_dripstone_corner_trim": "2024-12-10 06:10:04 +0000"
@@ -12564,6 +12576,12 @@
       "in_better_monster_room": "2024-12-10 05:55:52 +0000"
     },
     "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/tarantula_hawk_wing_fragment_decomposing": {
+    "criteria": {
+      "has_tarantula_hawk_wing_fragment": "2024-12-10 07:26:59 +0000"
+    },
+    "done": true
   },
   "betterdungeons:small_dungeon": {
     "criteria": {

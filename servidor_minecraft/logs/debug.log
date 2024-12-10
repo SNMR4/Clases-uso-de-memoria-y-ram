@@ -11986,3 +11986,38 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 07:22:41.722] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
 [10Dec2024 07:22:44.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
 [10Dec2024 07:22:51.257] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68093, l='ServerLevel[world]', x=88.56, y=71.40, z=-231.69] was struck by lightning LightningBolt['Lightning Bolt'/68108, l='ServerLevel[world]', x=89.50, y=71.00, z=-231.50].
+[10Dec2024 07:23:32.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 07:23:32.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 07:24:00.221] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[10Dec2024 07:24:05.554] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68674, l='ServerLevel[world]', x=64.29, y=68.40, z=-286.44] was struck by lightning LightningBolt['Lightning Bolt'/68685, l='ServerLevel[world]', x=64.50, y=68.00, z=-285.50].
+[10Dec2024 07:24:18.006] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68817, l='ServerLevel[world]', x=60.22, y=68.40, z=-288.26] was struck by lightning LightningBolt['Lightning Bolt'/68824, l='ServerLevel[world]', x=61.18, y=68.00, z=-287.94].
+[10Dec2024 07:24:29.909] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68860, l='ServerLevel[world]', x=65.18, y=68.00, z=-284.76] died, message: 'Villager was slain by AkujinPas'
+[10Dec2024 07:25:19.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[10Dec2024 07:25:20.176] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[10Dec2024 07:25:21.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[10Dec2024 07:25:21.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[10Dec2024 07:26:09.992] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[10Dec2024 07:26:09.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/passages/passage_1
+[10Dec2024 07:26:09.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/passages/passage_2
+[10Dec2024 07:26:32.317] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[10Dec2024 07:26:32.318] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[10Dec2024 07:26:32.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[10Dec2024 07:26:32.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[10Dec2024 07:26:33.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[10Dec2024 07:26:39.841] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[10Dec2024 07:26:46.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Rigged from the Start]
+[10Dec2024 07:26:56.199] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/71639, l='ServerLevel[world]', x=-2013.03, y=64.25, z=24.97] died: Honeyed Archer suffocated in a wall
+[10Dec2024 07:26:59.180] [Server thread/INFO] [Scaling Health/]: Blight Tarantula Hawk was killed by AkujinPas
+[10Dec2024 07:27:22.446] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 07:27:24.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Dec2024 07:27:49.993] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[10Dec2024 07:28:04.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[10Dec2024 07:28:32.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 07:28:32.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 07:30:06.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[10Dec2024 07:30:51.855] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/74428, l='ServerLevel[world]', x=656.66, y=65.40, z=198.30] was struck by lightning LightningBolt['Lightning Bolt'/74953, l='ServerLevel[world]', x=657.40, y=65.00, z=198.62].
+[10Dec2024 07:31:20.470] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/74497, l='ServerLevel[world]', x=676.50, y=66.00, z=205.03] died, message: 'Leatherworker was slain by AkujinPas'
+[10Dec2024 07:32:06.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/74427, l='ServerLevel[world]', x=700.70, y=63.90, z=185.42] was struck by lightning LightningBolt['Lightning Bolt'/75375, l='ServerLevel[world]', x=699.78, y=63.50, z=185.24].
+[10Dec2024 07:33:21.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[10Dec2024 07:33:32.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 07:33:32.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
