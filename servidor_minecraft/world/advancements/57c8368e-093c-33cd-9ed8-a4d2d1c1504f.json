@@ -12535,6 +12535,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/conditions": {
+    "criteria": {
+      "modifier": "2024-12-10 06:55:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2024-12-10 05:56:47 +0000"
