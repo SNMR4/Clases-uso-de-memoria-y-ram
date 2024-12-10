@@ -12633,6 +12633,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-10 08:58:30 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/raccoon_tail_decomposing": {
     "criteria": {
       "has_raccoon_tail": "2024-12-10 08:46:44 +0000"
@@ -12642,6 +12648,12 @@
   "iceandfire:recipes/combat/dragonbone_sword_lightning": {
     "criteria": {
       "has_item": "2024-12-10 07:14:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-10 08:54:55 +0000"
     },
     "done": true
   },
