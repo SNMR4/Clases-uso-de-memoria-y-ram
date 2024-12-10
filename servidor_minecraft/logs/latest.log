@@ -1975,3 +1975,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 07:48:24.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/65302, l='ServerLevel[world]', x=5.99, y=108.28, z=219.38] died: Honeyed Archer suffocated in a wall
 [10Dec2024 07:52:13.699] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
 [10Dec2024 07:52:25.714] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ignis_Entity$Crackiness
+[10Dec2024 07:56:23.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[10Dec2024 07:56:25.826] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[10Dec2024 07:56:25.826] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[10Dec2024 07:56:25.826] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[10Dec2024 07:56:26.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! -15.981359460090204,-8.871080172491816,0.9164561325779346
+[10Dec2024 08:02:30.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid was slain by Ignis
+[10Dec2024 08:02:32.275] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 08:02:32.276] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[10Dec2024 08:03:07.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid was slain by Ignis
+[10Dec2024 08:03:08.931] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 08:03:08.931] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Dec2024 08:03:34.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[10Dec2024 08:03:46.796] [Server thread/INFO] [Scaling Health/]: Blight Chaingunner has died
+[10Dec2024 08:04:05.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid tried to swim in lava to escape Ignis
+[10Dec2024 08:04:07.461] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 08:04:07.479] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty

@@ -12191,3 +12191,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 07:52:25.714] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ignis_Entity$Crackiness
 [10Dec2024 07:53:32.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 07:53:32.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 07:56:23.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[10Dec2024 07:56:25.826] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[10Dec2024 07:56:25.826] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[10Dec2024 07:56:25.826] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[10Dec2024 07:56:26.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! -15.981359460090204,-8.871080172491816,0.9164561325779346
+[10Dec2024 07:58:34.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 07:58:34.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 08:02:30.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid was slain by Ignis
+[10Dec2024 08:02:32.275] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 08:02:32.276] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[10Dec2024 08:02:32.298] [Server thread/DEBUG] [twilightforest/]: Player Lex_Ssuid (9e7dcda3-0745-3755-b058-30d2fc1816ac) respawned and received items held in storage
+[10Dec2024 08:02:53.521] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=160, y=69, z=118} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[10Dec2024 08:03:07.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid was slain by Ignis
+[10Dec2024 08:03:08.931] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 08:03:08.931] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Dec2024 08:03:08.949] [Server thread/DEBUG] [twilightforest/]: Player Lex_Ssuid (9e7dcda3-0745-3755-b058-30d2fc1816ac) respawned and received items held in storage
+[10Dec2024 08:03:26.715] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=160, y=69, z=118} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[10Dec2024 08:03:34.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[10Dec2024 08:03:42.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 08:03:42.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 08:03:46.796] [Server thread/INFO] [Scaling Health/]: Blight Chaingunner has died
+[10Dec2024 08:04:05.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid tried to swim in lava to escape Ignis
+[10Dec2024 08:04:07.461] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[10Dec2024 08:04:07.479] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[10Dec2024 08:04:07.503] [Server thread/DEBUG] [twilightforest/]: Player Lex_Ssuid (9e7dcda3-0745-3755-b058-30d2fc1816ac) respawned and received items held in storage
+[10Dec2024 08:04:24.324] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=160, y=69, z=118} in ResourceKey[minecraft:dimension / minecraft:overworld]
