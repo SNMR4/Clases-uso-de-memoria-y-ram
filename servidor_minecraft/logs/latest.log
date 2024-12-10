@@ -1823,3 +1823,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 04:33:30.947] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
 [10Dec2024 04:33:30.955] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/upgrades/deposit/DepositFilterType
 [10Dec2024 04:34:03.750] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[10Dec2024 05:05:28.803] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi

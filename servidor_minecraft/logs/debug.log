@@ -10250,3 +10250,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Dec2024 04:53:32.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Dec2024 04:58:32.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 04:58:32.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 05:03:32.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:03:32.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 05:05:28.803] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
+[10Dec2024 05:08:16.593] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockNeighborGroupMixin from lithium.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
+[10Dec2024 05:08:16.593] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:cached_hashcode.BlockNeighborGroupMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[10Dec2024 05:08:32.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 05:08:32.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
