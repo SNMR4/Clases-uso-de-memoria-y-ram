@@ -2586,6 +2586,7 @@
       "minecraft:spider": "2024-11-22 08:37:01 +0000",
       "minecraft:piglin_brute": "2024-11-26 08:15:18 +0000",
       "minecraft:creeper": "2024-11-25 01:26:58 +0000",
+      "minecraft:wither": "2024-12-11 08:03:40 +0000",
       "minecraft:slime": "2024-11-25 01:29:07 +0000",
       "minecraft:phantom": "2024-11-25 00:45:45 +0000",
       "minecraft:zombified_piglin": "2024-11-25 08:27:43 +0000",
@@ -6557,9 +6558,10 @@
   },
   "enigmaticlegacy:recipes/generic/heaven_scroll": {
     "criteria": {
-      "has_parent_recipe": "2024-11-24 09:06:09 +0000"
+      "has_parent_recipe": "2024-11-24 09:06:09 +0000",
+      "has_items": "2024-12-11 08:03:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/escape_scroll": {
     "criteria": {
@@ -11843,9 +11845,10 @@
   },
   "enigmaticlegacy:recipes/generic/fabulous_scroll": {
     "criteria": {
+      "has_parent_recipe": "2024-12-11 08:03:52 +0000",
       "has_items": "2024-12-02 00:26:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "enigmaticlegacy:recipes/generic/ender_rod": {
     "criteria": {
@@ -12381,9 +12384,52 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/nether_star_decomposing": {
+    "criteria": {
+      "has_nether_star": "2024-12-11 08:03:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2024-12-11 07:42:41 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/heaven_scroll": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 08:03:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-11 08:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-11 08:03:52 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_star": {
+    "criteria": {
+      "has_item_nether_star": "2024-12-11 08:03:52 +0000",
+      "has_forge_nether_stars": "2024-12-11 08:03:52 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/nether_star": {
+    "criteria": {
+      "has_items": "2024-12-11 08:03:52 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/fabulous_scroll": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 08:03:52 +0000"
     },
     "done": true
   },
