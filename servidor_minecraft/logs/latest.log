@@ -1837,3 +1837,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 04:53:53.295] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
 [11Dec2024 04:53:53.297] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [11Dec2024 04:53:53.298] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[11Dec2024 04:54:26.637] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[11Dec2024 04:54:26.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Surge Protector]
+[11Dec2024 04:54:47.899] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[11Dec2024 04:54:47.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> xd
+[11Dec2024 04:54:53.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> espantas
+[11Dec2024 04:55:36.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> dis?
+[11Dec2024 04:55:43.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> en un rato
+[11Dec2024 04:58:08.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Timed out
+[11Dec2024 04:58:08.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
+[11Dec2024 04:58:19.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.71.33.167:53333] logged in with entity id 3128 at (68.30000001192093, 95.14920001974106, 177.67891710698436)
+[11Dec2024 04:58:19.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[11Dec2024 04:58:19.573] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
+[11Dec2024 04:58:19.575] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[11Dec2024 04:58:19.575] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[11Dec2024 04:59:24.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> bro
+[11Dec2024 04:59:25.736] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[11Dec2024 04:59:32.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> que pasa?
+[11Dec2024 04:59:37.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> hay mesa de desencantamientos?
+[11Dec2024 05:00:02.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> no, pero recuerda que hay tomos para quitar los encantamientos
+[11Dec2024 05:00:31.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> y cuan era?
+[11Dec2024 05:00:56.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> tome of hungering
+[11Dec2024 05:04:05.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Timed out
+[11Dec2024 05:04:05.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
