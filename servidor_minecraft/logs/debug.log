@@ -13251,3 +13251,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 08:14:57.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4214ms or 84 ticks behind
 [11Dec2024 08:15:39.822] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:compressed_torcherino at 129, 92, -135.
 [11Dec2024 08:16:01.594] [Server thread/INFO] [Scaling Health/]: Blight Cave Creeper was killed by Draconic Evolution Grinder
+[11Dec2024 08:17:37.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> TIENES ARENA DE ALMAS?
+[11Dec2024 08:17:41.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
+[11Dec2024 08:18:11.495] [Server thread/INFO] [Scaling Health/]: Blight Cave Creeper was killed by Draconic Evolution Grinder
+[11Dec2024 08:18:15.092] [Server thread/INFO] [Scaling Health/]: Blight Cave Creeper was killed by Draconic Evolution Grinder
+[11Dec2024 08:18:32.492] [Server thread/INFO] [Scaling Health/]: Blight Cave Creeper was killed by Draconic Evolution Grinder
+[11Dec2024 08:18:34.094] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Rick the Eagle'/76164, l='ServerLevel[world]', x=228.70, y=-18.00, z=268.70] died: Rick the Eagle was slain by Lex_Ssuid
+[11Dec2024 08:18:36.394] [Server thread/INFO] [Scaling Health/]: Blight Cave Creeper was killed by Draconic Evolution Grinder
+[11Dec2024 08:18:37.891] [Server thread/INFO] [Scaling Health/]: Blight Cave Creeper was killed by Draconic Evolution Grinder
+[11Dec2024 08:18:48.394] [Server thread/INFO] [Scaling Health/]: Blight Cave Creeper was killed by Draconic Evolution Grinder
+[11Dec2024 08:19:33.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 08:19:33.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 08:20:31.953] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:wall_compressed_torcherino at 131, 96, -141.
+[11Dec2024 08:24:31.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Disconnected
+[11Dec2024 08:24:31.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
+[11Dec2024 08:24:33.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 08:24:33.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
