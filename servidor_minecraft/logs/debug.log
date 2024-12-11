@@ -12694,3 +12694,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 06:40:19.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Dec2024 06:45:19.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Dec2024 06:45:19.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 06:50:19.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 06:50:19.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 06:52:03.993] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[11Dec2024 06:54:55.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> desaparecio mi torcherino xd
+[11Dec2024 06:55:05.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> OTRA VEZ¡?
+[11Dec2024 06:55:07.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Lex_Ssuid: Location (107.78156676888466, 77.5625, 118.72951632738113) too far away from hit block BlockPos{x=108, y=76, z=118}.
+[11Dec2024 06:55:08.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> si
+[11Dec2024 06:55:19.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 06:55:19.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

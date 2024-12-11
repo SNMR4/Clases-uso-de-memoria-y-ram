@@ -1901,3 +1901,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 05:57:13.617] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
 [11Dec2024 06:14:51.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> dc
 [11Dec2024 06:15:31.291] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by Draconic Evolution Grinder
+[11Dec2024 06:52:03.993] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[11Dec2024 06:54:55.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> desaparecio mi torcherino xd
+[11Dec2024 06:55:05.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> OTRA VEZ¡?
+[11Dec2024 06:55:07.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Lex_Ssuid: Location (107.78156676888466, 77.5625, 118.72951632738113) too far away from hit block BlockPos{x=108, y=76, z=118}.
+[11Dec2024 06:55:08.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> si
