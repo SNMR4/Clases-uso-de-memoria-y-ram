@@ -12688,9 +12688,51 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dye_black_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-12-11 06:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2024-12-11 06:08:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_black_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-12-11 06:08:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2024-12-11 04:54:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-11 06:09:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_black_dye": {
+    "criteria": {
+      "forge:dyes/black": "2024-12-11 06:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-11 06:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-11 06:08:57 +0000"
     },
     "done": true
   },
@@ -12709,6 +12751,18 @@
   "supplementaries:recipes/ash_bricks": {
     "criteria": {
       "has_ash_brick": "2024-12-11 05:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-11 06:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-11 06:08:57 +0000"
     },
     "done": true
   },
