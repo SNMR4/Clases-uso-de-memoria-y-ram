@@ -12537,39 +12537,21 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+  "aether:recipes/tools/diamond_shovel_repairing": {
     "criteria": {
-      "has_dripstone_pillar_trim": "2024-12-10 06:10:04 +0000"
+      "has_diamond_shovel": "2024-12-10 05:43:21 +0000"
     },
     "done": true
   },
-  "cataclysm:find_burning_arena": {
+  "betterdungeons:all_dungeons": {
     "criteria": {
-      "arena": "2024-12-10 08:26:01 +0000"
+      "in_better_monster_room": "2024-12-10 05:55:52 +0000"
     },
-    "done": true
+    "done": false
   },
-  "totw_modded:derelict_grass_tower": {
+  "betterdungeons:small_dungeon": {
     "criteria": {
-      "derelict_grass": "2024-12-10 07:35:55 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:spawner/conditions": {
-    "criteria": {
-      "modifier": "2024-12-10 06:55:52 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mushroom_mines": {
-    "criteria": {
-      "location0": "2024-12-10 07:41:02 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/banana_slug_slime_decomposing": {
-    "criteria": {
-      "has_banana_slug_slime": "2024-12-10 07:38:42 +0000"
+      "in_better_monster_room": "2024-12-10 05:55:52 +0000"
     },
     "done": true
   },
@@ -12579,9 +12561,45 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2024-12-10 06:09:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2024-12-10 06:10:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2024-12-10 06:10:04 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rocky_shell": {
     "criteria": {
       "soul_heart": "2024-12-10 06:11:08 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/rocky_shell_decomposing": {
+    "criteria": {
+      "has_rocky_shell": "2024-12-10 06:11:08 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/conditions": {
+    "criteria": {
+      "modifier": "2024-12-10 06:55:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2024-12-10 07:14:22 +0000"
     },
     "done": true
   },
@@ -12597,27 +12615,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/dripstone_corner_trim": {
-    "criteria": {
-      "has_dripstone_corner_trim": "2024-12-10 06:10:04 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_monster_room": "2024-12-10 05:55:52 +0000"
-    },
-    "done": false
-  },
-  "totw_modded:regular_tower": {
-    "criteria": {
-      "regular": "2024-12-10 07:47:01 +0000"
-    },
-    "done": true
-  },
   "biomancy:recipes/biomancy/decomposing/tarantula_hawk_wing_fragment_decomposing": {
     "criteria": {
       "has_tarantula_hawk_wing_fragment": "2024-12-10 07:26:59 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:derelict_grass_tower": {
+    "criteria": {
+      "derelict_grass": "2024-12-10 07:35:55 +0000"
     },
     "done": true
   },
@@ -12627,39 +12633,27 @@
     },
     "done": true
   },
-  "betterdungeons:small_dungeon": {
+  "biomancy:recipes/biomancy/decomposing/banana_slug_slime_decomposing": {
     "criteria": {
-      "in_better_monster_room": "2024-12-10 05:55:52 +0000"
+      "has_banana_slug_slime": "2024-12-10 07:38:42 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/orange_sandstone": {
+  "dungeons_arise:find_mushroom_mines": {
     "criteria": {
-      "has_sand": "2024-12-10 08:58:30 +0000"
+      "location0": "2024-12-10 07:41:02 +0000"
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/raccoon_tail_decomposing": {
+  "totw_modded:regular_tower": {
     "criteria": {
-      "has_raccoon_tail": "2024-12-10 08:46:44 +0000"
+      "regular": "2024-12-10 07:47:01 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+  "cataclysm:find_burning_arena": {
     "criteria": {
-      "has_item": "2024-12-10 07:14:22 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2024-12-10 08:54:55 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/rocky_shell_decomposing": {
-    "criteria": {
-      "has_rocky_shell": "2024-12-10 06:11:08 +0000"
+      "arena": "2024-12-10 08:26:01 +0000"
     },
     "done": true
   },
@@ -12669,15 +12663,21 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rocky_roller": {
+  "biomancy:recipes/biomancy/decomposing/raccoon_tail_decomposing": {
     "criteria": {
-      "killed_by": "2024-12-10 06:09:21 +0000"
+      "has_raccoon_tail": "2024-12-10 08:46:44 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_shovel_repairing": {
+  "supplementaries:adventure/way_sign": {
     "criteria": {
-      "has_diamond_shovel": "2024-12-10 05:43:21 +0000"
+      "bastion": "2024-12-10 08:54:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-10 08:58:30 +0000"
     },
     "done": true
   },
