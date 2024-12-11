@@ -1900,3 +1900,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 05:57:13.579] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
 [11Dec2024 05:57:13.617] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
 [11Dec2024 06:14:51.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> dc
+[11Dec2024 06:15:31.291] [Server thread/INFO] [Scaling Health/]: Blight Zombified Piglin was killed by Draconic Evolution Grinder
