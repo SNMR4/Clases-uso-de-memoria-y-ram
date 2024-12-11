@@ -12195,21 +12195,39 @@
     },
     "done": true
   },
+  "craftingautomat:recipes/redstone/autocrafter": {
+    "criteria": {
+      "has_end_stone": "2024-12-10 05:17:25 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_gold": {
+    "criteria": {
+      "has_forge_ingots/gold": "2024-12-10 05:21:26 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_wood": {
+    "criteria": {
+      "has_forge_glass": "2024-12-10 05:23:56 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_diamond": {
+    "criteria": {
+      "has_forge_gems/diamond": "2024-12-10 07:42:05 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_stone": {
+    "criteria": {
+      "has_forge_stone": "2024-12-10 07:43:26 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/accessories/escape_scroll": {
     "criteria": {
       "has_the_recipe": "2024-12-10 08:08:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-10 08:27:50 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/decorations/nether_brick_smoker": {
-    "criteria": {
-      "has_nether_bricks": "2024-12-10 08:27:50 +0000"
     },
     "done": true
   },
@@ -12225,15 +12243,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+  "enigmaticlegacy:recipes/generic/end_anchor": {
+    "criteria": {
+      "has_items": "2024-12-10 08:08:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-10 08:27:50 +0000"
     },
     "done": true
   },
-  "fluidtank:recipes/tank/tank_gold": {
+  "nethersdelight:recipes/decorations/nether_brick_smoker": {
     "criteria": {
-      "has_forge_ingots/gold": "2024-12-10 05:21:26 +0000"
+      "has_nether_bricks": "2024-12-10 08:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-10 08:27:50 +0000"
     },
     "done": true
   },
@@ -12252,30 +12282,6 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-10 08:27:50 +0000"
-    },
-    "done": true
-  },
-  "fluidtank:recipes/tank/tank_wood": {
-    "criteria": {
-      "has_forge_glass": "2024-12-10 05:23:56 +0000"
-    },
-    "done": true
-  },
-  "fluidtank:recipes/tank/tank_stone": {
-    "criteria": {
-      "has_forge_stone": "2024-12-10 07:43:26 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:recipes/generic/end_anchor": {
-    "criteria": {
-      "has_items": "2024-12-10 08:08:37 +0000"
-    },
-    "done": true
-  },
-  "craftingautomat:recipes/redstone/autocrafter": {
-    "criteria": {
-      "has_end_stone": "2024-12-10 05:17:25 +0000"
     },
     "done": true
   },
@@ -12300,12 +12306,6 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2024-12-10 08:27:50 +0000"
-    },
-    "done": true
-  },
-  "fluidtank:recipes/tank/tank_diamond": {
-    "criteria": {
-      "has_forge_gems/diamond": "2024-12-10 07:42:05 +0000"
     },
     "done": true
   },
