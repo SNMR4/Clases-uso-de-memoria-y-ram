@@ -12381,5 +12381,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-12-11 07:42:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2024-12-11 07:40:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
