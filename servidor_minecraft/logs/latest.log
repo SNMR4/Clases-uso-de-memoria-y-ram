@@ -1906,3 +1906,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 06:55:05.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> OTRA VEZ¡?
 [11Dec2024 06:55:07.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Lex_Ssuid: Location (107.78156676888466, 77.5625, 118.72951632738113) too far away from hit block BlockPos{x=108, y=76, z=118}.
 [11Dec2024 06:55:08.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> si
+[11Dec2024 06:57:24.588] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/29136, l='ServerLevel[world]', x=162.30, y=76.41, z=-139.07] died: Undead Knight suffocated in a wall
+[11Dec2024 07:03:04.901] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:compressed_torcherino at 129, 92, -135.
+[11Dec2024 07:03:13.507] [Server thread/INFO] [Scaling Health/]: Blight Cave Creeper was killed by Draconic Evolution Grinder
+[11Dec2024 07:03:19.197] [Server thread/INFO] [Scaling Health/]: Blight Cave Creeper was killed by Draconic Evolution Grinder
+[11Dec2024 07:05:29.093] [Server thread/INFO] [Scaling Health/]: Blight Cave Creeper was killed by Draconic Evolution Grinder

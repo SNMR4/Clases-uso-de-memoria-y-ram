@@ -12703,3 +12703,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 06:55:08.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> si
 [11Dec2024 06:55:19.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Dec2024 06:55:19.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 06:57:17.222] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[11Dec2024 06:57:24.588] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/29136, l='ServerLevel[world]', x=162.30, y=76.41, z=-139.07] died: Undead Knight suffocated in a wall
+[11Dec2024 06:58:53.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[11Dec2024 07:00:19.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 07:00:19.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 07:03:04.901] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:compressed_torcherino at 129, 92, -135.
+[11Dec2024 07:03:13.507] [Server thread/INFO] [Scaling Health/]: Blight Cave Creeper was killed by Draconic Evolution Grinder
+[11Dec2024 07:03:19.197] [Server thread/INFO] [Scaling Health/]: Blight Cave Creeper was killed by Draconic Evolution Grinder
+[11Dec2024 07:05:19.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 07:05:19.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 07:05:29.093] [Server thread/INFO] [Scaling Health/]: Blight Cave Creeper was killed by Draconic Evolution Grinder
