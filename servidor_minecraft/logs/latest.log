@@ -1860,3 +1860,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 05:00:56.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> tome of hungering
 [11Dec2024 05:04:05.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Timed out
 [11Dec2024 05:04:05.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
+[11Dec2024 05:04:23.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.71.33.167:48573] logged in with entity id 4688 at (100.70368557278427, 77.0, 119.16865795438305)
+[11Dec2024 05:04:23.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[11Dec2024 05:04:24.056] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
+[11Dec2024 05:04:24.056] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[11Dec2024 05:04:24.056] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[11Dec2024 05:04:54.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Timed out
+[11Dec2024 05:04:54.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
+[11Dec2024 05:04:54.101] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Dec2024 05:07:53.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.71.33.167:48419] logged in with entity id 5234 at (100.70368557278427, 77.0, 119.16865795438305)
+[11Dec2024 05:07:53.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[11Dec2024 05:07:53.924] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
+[11Dec2024 05:07:53.924] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[11Dec2024 05:07:53.925] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[11Dec2024 05:09:36.567] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[11Dec2024 05:09:36.570] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[11Dec2024 05:11:23.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=22, z=-113} BlockPos{x=371, y=19, z=-113}
+[11Dec2024 05:11:32.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=9, z=-123} BlockPos{x=371, y=6, z=-123}
+[11Dec2024 05:11:33.531] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
