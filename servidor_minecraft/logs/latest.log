@@ -1867,3 +1867,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Dec2024 06:25:50.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> vuelvo al rato
 [13Dec2024 06:25:53.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
 [13Dec2024 06:25:53.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[13Dec2024 06:35:00.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=146, y=-24, z=1240} BlockPos{x=147, y=-21, z=1244}
+[13Dec2024 06:39:28.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [They Have a Cave Troll!]

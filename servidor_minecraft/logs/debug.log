@@ -10502,3 +10502,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Dec2024 06:32:00.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of domesticationinnovation:snowy_petshop
 [13Dec2024 06:33:24.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Dec2024 06:33:24.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 06:35:00.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=146, y=-24, z=1240} BlockPos{x=147, y=-21, z=1244}
+[13Dec2024 06:38:24.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 06:38:24.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 06:39:28.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [They Have a Cave Troll!]
+[13Dec2024 06:43:24.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 06:43:24.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
