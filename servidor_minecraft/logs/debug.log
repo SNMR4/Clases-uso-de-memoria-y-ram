@@ -10879,3 +10879,43 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Dec2024 06:54:00.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> mejor duerme
 [13Dec2024 06:54:09.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> ahí me desconecté xd
 [13Dec2024 06:54:15.823] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[13Dec2024 06:55:55.434] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Dec2024 06:55:55.523] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[13Dec2024 06:55:55.656] [Worker-Main-22/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[13Dec2024 06:55:55.660] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[13Dec2024 06:55:55.705] [Worker-Main-22/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[13Dec2024 06:55:55.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[13Dec2024 06:55:55.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[13Dec2024 06:55:55.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[13Dec2024 06:55:55.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[13Dec2024 06:55:55.830] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[13Dec2024 06:55:56.392] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[13Dec2024 06:55:56.960] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[13Dec2024 06:55:57.901] [Worker-Main-21/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[13Dec2024 06:55:58.056] [Worker-Main-20/DEBUG] [ModernFix/]: Structure totw_modded:ice/ice_tower_bottom is being run through DFU (hash 39f0974dffce12cf632773fe3d2aaca31ba2cf19f8b74e3e0cc6fd13d9f84b2f), this will cause launch time delays
+[13Dec2024 06:55:59.003] [Worker-Main-20/DEBUG] [ModernFix/]: Structure totw_modded:derelict/derelict_tower_bottom is being run through DFU (hash 78c8b08a83e4ff6f6b1ca5dc27bf52e97886e4940a1573382081531764fc1f1e), this will cause launch time delays
+[13Dec2024 06:55:59.036] [Worker-Main-20/DEBUG] [ModernFix/]: Structure totw_modded:desert/desert_tower_bottom is being run through DFU (hash 713609385d8a28d5830f2b8f49b64ebf1b795892adf30b990b2d909e489179ec), this will cause launch time delays
+[13Dec2024 06:55:59.066] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:badlands/badlands_tower_bottom
+[13Dec2024 06:56:00.547] [Worker-Main-22/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[13Dec2024 06:56:01.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5999ms or 119 ticks behind
+[13Dec2024 06:56:43.584] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[13Dec2024 06:56:51.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Dragon Commander]
+[13Dec2024 06:57:20.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [An Ear-Shattering Roar]
+[13Dec2024 06:57:55.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [The Song of the Dragons]
+[13Dec2024 06:58:30.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 06:58:30.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 07:00:14.936] [Server thread/DEBUG] [ModernFix/]: Structure doom:archmaykr1 is being run through DFU (hash 4cf758c79732ef276511285b8d797993e734a6a2c14f97e01983ddfd4b2792f8), this will cause launch time delays
+[13Dec2024 07:00:15.272] [Server thread/DEBUG] [ModernFix/]: Structure doom:archmaykr2 is being run through DFU (hash 9d781e7229da802ee03cd4f191a004d255e7397562212a08a9e79135a47d6bfa), this will cause launch time delays
+[13Dec2024 07:00:15.468] [Server thread/DEBUG] [ModernFix/]: Structure doom:archmaykr3 is being run through DFU (hash aa5793070794b49b86c00313296e64d671a4743f24cc7b4eefec9e12d5d6381e), this will cause launch time delays
+[13Dec2024 07:00:15.633] [Server thread/DEBUG] [ModernFix/]: Structure doom:archmaykr4 is being run through DFU (hash 6b99ceed85ec86fdaddc0f143fed91c717201cf3ffec3fa1b3d4b6a0451ef1bc), this will cause launch time delays
+[13Dec2024 07:01:38.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> oye
+[13Dec2024 07:01:44.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> ?
+[13Dec2024 07:01:55.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> quieres un huevo?
+[13Dec2024 07:02:01.442] [Server thread/DEBUG] [ModernFix/]: Structure totw_modded:end/end_tower_bottom is being run through DFU (hash f480d64730bffd47c980582111ff79dee4a9b79f4e2ef1ee7b7c56695cb5fbcb), this will cause launch time delays
+[13Dec2024 07:02:12.706] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/88, l='ServerLevel[world]', x=88.30, y=88.00, z=207.30] died: Undead Knight was slain by Lex_Ssuid
+[13Dec2024 07:03:30.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 07:03:30.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 07:04:30.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[13Dec2024 07:04:41.405] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[13Dec2024 07:04:41.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[13Dec2024 07:04:41.521] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top

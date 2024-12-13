@@ -12766,6 +12766,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2024-12-13 06:19:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2024-12-13 06:19:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2024-12-13 06:22:54 +0000"
@@ -12778,15 +12790,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/netherite_helmet_repairing": {
+  "biomancy:recipes/biomancy/decomposing/mimicream_decomposing": {
     "criteria": {
-      "has_netherite_helmet": "2024-12-13 06:19:35 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_leggings_repairing": {
-    "criteria": {
-      "has_netherite_leggings": "2024-12-13 06:19:35 +0000"
+      "has_mimicream": "2024-12-13 06:59:51 +0000"
     },
     "done": true
   },

@@ -12446,6 +12446,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2024-12-13 06:57:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
       "has_mud_bricks": "2024-12-13 06:03:29 +0000"
@@ -12467,6 +12473,12 @@
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2024-12-13 06:17:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-12-13 06:56:51 +0000"
     },
     "done": true
   },
@@ -12497,6 +12509,12 @@
   "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
     "criteria": {
       "has_soil": "2024-12-13 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-12-13 06:57:20 +0000"
     },
     "done": true
   },
