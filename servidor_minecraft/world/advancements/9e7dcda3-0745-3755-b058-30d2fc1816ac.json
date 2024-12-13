@@ -12439,5 +12439,17 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
+    "criteria": {
+      "has_soil": "2024-12-13 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
+    "criteria": {
+      "has_soil": "2024-12-13 05:53:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
