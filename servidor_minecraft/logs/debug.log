@@ -9881,3 +9881,61 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Dec2024 05:40:59.907] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockNeighborGroupMixin from lithium.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
 [13Dec2024 05:40:59.908] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:cached_hashcode.BlockNeighborGroupMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [13Dec2024 05:41:16.266] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[13Dec2024 05:43:16.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 05:43:17.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 05:43:26.784] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/maxhenkel/pipez/blocks/tileentity/UpgradeTileEntity$RedstoneMode
+[13Dec2024 05:43:26.786] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/maxhenkel/pipez/blocks/tileentity/UpgradeTileEntity$Distribution
+[13Dec2024 05:43:26.787] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/maxhenkel/pipez/blocks/tileentity/UpgradeTileEntity$FilterMode
+[13Dec2024 05:43:47.620] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@5eaa7bc9 for service interface com.blamejared.clumps.platform.IEventHelper
+[13Dec2024 05:43:47.621] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@438e49ec for service interface com.blamejared.clumps.platform.IPlatformHelper
+[13Dec2024 05:43:48.813] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[13Dec2024 05:44:02.206] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[13Dec2024 05:46:32.891] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[13Dec2024 05:46:39.329] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[13Dec2024 05:46:39.526] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[13Dec2024 05:46:39.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_3_main
+[13Dec2024 05:46:39.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[13Dec2024 05:46:39.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_0
+[13Dec2024 05:46:39.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_hoglin_rider_0
+[13Dec2024 05:46:39.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_1
+[13Dec2024 05:46:39.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_5
+[13Dec2024 05:46:39.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_2
+[13Dec2024 05:46:39.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_0
+[13Dec2024 05:46:39.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_0
+[13Dec2024 05:46:39.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_1
+[13Dec2024 05:46:39.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_1
+[13Dec2024 05:46:39.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_0
+[13Dec2024 05:46:39.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_4
+[13Dec2024 05:46:39.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_plains/base_plate
+[13Dec2024 05:46:39.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/vindicator
+[13Dec2024 05:46:39.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/outpost_captain
+[13Dec2024 05:46:39.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/pillager
+[13Dec2024 05:46:39.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/captive_snow
+[13Dec2024 05:46:40.058] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[13Dec2024 05:46:40.465] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[13Dec2024 05:46:40.674] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[13Dec2024 05:46:41.423] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[13Dec2024 05:46:41.523] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[13Dec2024 05:46:42.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[13Dec2024 05:46:46.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[13Dec2024 05:46:46.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[13Dec2024 05:47:07.940] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[13Dec2024 05:48:00.907] [Server thread/DEBUG] [mixin/]: Mixing CrashReportSectionMixin from neruina.mixins.json into net.minecraft.CrashReportCategory
+[13Dec2024 05:48:16.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 05:48:17.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 05:48:21.315] [Server thread/INFO] [Scaling Health/]: Blight Blue Jay was killed by Draconic Evolution Grinder
+[13Dec2024 05:49:06.523] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[13Dec2024 05:51:16.959] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$b374fba8614f460890883cea27241cb1 (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[13Dec2024 05:52:29.975] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[13Dec2024 05:52:29.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[13Dec2024 05:52:30.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[13Dec2024 05:52:35.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[13Dec2024 05:52:35.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[13Dec2024 05:52:35.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[13Dec2024 05:52:35.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[13Dec2024 05:52:35.389] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[13Dec2024 05:52:35.399] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[13Dec2024 05:52:35.405] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[13Dec2024 05:52:35.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[13Dec2024 05:52:35.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[13Dec2024 05:52:36.665] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant

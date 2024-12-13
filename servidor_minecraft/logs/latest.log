@@ -1806,3 +1806,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Dec2024 05:37:52.708] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
 [13Dec2024 05:37:55.816] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
 [13Dec2024 05:41:16.266] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[13Dec2024 05:43:26.784] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/maxhenkel/pipez/blocks/tileentity/UpgradeTileEntity$RedstoneMode
+[13Dec2024 05:43:26.786] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/maxhenkel/pipez/blocks/tileentity/UpgradeTileEntity$Distribution
+[13Dec2024 05:43:26.787] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/maxhenkel/pipez/blocks/tileentity/UpgradeTileEntity$FilterMode
+[13Dec2024 05:43:48.813] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[13Dec2024 05:44:02.206] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[13Dec2024 05:46:32.891] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[13Dec2024 05:46:39.329] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[13Dec2024 05:46:40.058] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[13Dec2024 05:46:40.465] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[13Dec2024 05:46:40.674] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[13Dec2024 05:46:41.423] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[13Dec2024 05:48:21.315] [Server thread/INFO] [Scaling Health/]: Blight Blue Jay was killed by Draconic Evolution Grinder
+[13Dec2024 05:49:06.523] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[13Dec2024 05:52:29.975] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[13Dec2024 05:52:29.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[13Dec2024 05:52:36.665] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
