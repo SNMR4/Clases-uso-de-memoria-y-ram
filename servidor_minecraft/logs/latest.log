@@ -1853,3 +1853,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Dec2024 06:10:36.623] [Server thread/INFO] [Scaling Health/]: Blight Blood Maykr has died
 [13Dec2024 06:10:50.643] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [13Dec2024 06:11:17.986] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[13Dec2024 06:14:08.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved too quickly! -8.276679172962883,-4.544797177827757,-15.000942281109928
+[13Dec2024 06:14:08.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2426ms or 48 ticks behind
+[13Dec2024 06:14:08.175] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[13Dec2024 06:15:35.013] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[13Dec2024 06:15:35.014] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[13Dec2024 06:15:35.018] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[13Dec2024 06:17:53.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Mother of Dragons]
+[13Dec2024 06:19:35.073] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Shulker['Jeb the Lame'/17272, l='ServerLevel[world]', x=-2559.50, y=57.00, z=5283.50] died: Jeb the Lame was slain by AkujinPas
+[13Dec2024 06:22:53.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Shulker['Olaf the Pathetic'/19156, l='ServerLevel[world]', x=-2505.50, y=60.00, z=5450.50] died: Olaf the Pathetic was slain by AkujinPas
+[13Dec2024 06:23:36.530] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestegg/guardvillagers/entities/ai/goals/RangedCrossbowAttackPassiveGoal$CrossbowState
+[13Dec2024 06:25:50.438] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[13Dec2024 06:25:50.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> vuelvo al rato
+[13Dec2024 06:25:53.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[13Dec2024 06:25:53.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
