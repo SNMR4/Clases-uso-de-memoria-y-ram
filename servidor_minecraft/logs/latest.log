@@ -1839,3 +1839,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Dec2024 06:01:18.059] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
 [13Dec2024 06:01:26.458] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
 [13Dec2024 06:02:32.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/9218, l='ServerLevel[world]', x=-769.84, y=96.00, z=103.24] died: Unlicensed Alchemist burned to death
+[13Dec2024 06:03:21.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/9245, l='ServerLevel[world]', x=-780.97, y=96.00, z=105.51] died: Unlicensed Alchemist was slain by Lex_Ssuid
+[13Dec2024 06:03:24.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/9313, l='ServerLevel[world]', x=-782.02, y=96.00, z=104.47] died: Unlicensed Alchemist was slain by Lex_Ssuid
+[13Dec2024 06:03:24.122] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/9286, l='ServerLevel[world]', x=-781.78, y=96.00, z=104.75] died: Unlicensed Alchemist was slain by Lex_Ssuid
+[13Dec2024 06:03:26.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/9315, l='ServerLevel[world]', x=-783.04, y=96.00, z=109.48] died: Unlicensed Alchemist was slain by Lex_Ssuid
+[13Dec2024 06:03:36.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/9247, l='ServerLevel[world]', x=-780.37, y=96.00, z=114.49] died: Unlicensed Alchemist was slain by Lex_Ssuid
+[13Dec2024 06:07:56.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:57629] logged in with entity id 10081 at (125.44120975915827, 95.5, -142.61875374698587)
+[13Dec2024 06:07:56.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[13Dec2024 06:07:56.501] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[13Dec2024 06:07:56.502] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Dec2024 06:07:56.503] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[13Dec2024 06:10:17.447] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Shulker['Sir Mark the Burger Chef'/10699, l='ServerLevel[world]', x=787.50, y=61.00, z=-1131.50] died: Sir Mark the Burger Chef was slain by AkujinPas
+[13Dec2024 06:10:36.623] [Server thread/INFO] [Scaling Health/]: Blight Blood Maykr has died
+[13Dec2024 06:10:50.643] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[13Dec2024 06:11:17.986] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
