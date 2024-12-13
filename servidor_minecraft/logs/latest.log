@@ -1869,3 +1869,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Dec2024 06:25:53.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
 [13Dec2024 06:35:00.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=146, y=-24, z=1240} BlockPos{x=147, y=-21, z=1244}
 [13Dec2024 06:39:28.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [They Have a Cave Troll!]
+[13Dec2024 06:44:49.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has completed the challenge [Rude Awakening]
+[13Dec2024 06:45:05.575] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/client/render/entity/player/GeckoPlayer$Perspective
+[13Dec2024 06:45:05.577] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/PlayerAbility$HandDisplay
+[13Dec2024 06:49:50.316] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[13Dec2024 06:53:26.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:36825] logged in with entity id 27750 at (78.30000001192093, 93.0, 169.05092559373546)
+[13Dec2024 06:53:26.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[13Dec2024 06:53:26.427] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[13Dec2024 06:53:26.427] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[13Dec2024 06:53:26.428] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[13Dec2024 06:53:45.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> no vengas a mi casa perro
+[13Dec2024 06:54:00.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> mejor duerme
+[13Dec2024 06:54:09.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> ahí me desconecté xd
