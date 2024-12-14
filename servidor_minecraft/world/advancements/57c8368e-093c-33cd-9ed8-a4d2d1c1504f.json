@@ -12898,5 +12898,11 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
+    "criteria": {
+      "has_compacting_upgrade": "2024-12-14 03:50:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

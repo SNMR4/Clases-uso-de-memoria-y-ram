@@ -1814,3 +1814,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Dec2024 03:50:27.650] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [14Dec2024 03:52:10.193] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/util/RecipeHelper$CompactingShape
 [14Dec2024 03:53:08.256] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[14Dec2024 03:58:38.338] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
