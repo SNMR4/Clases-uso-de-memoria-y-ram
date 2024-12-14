@@ -12440,15 +12440,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
     "criteria": {
-      "has_mud_bricks": "2024-12-13 06:03:29 +0000"
+      "has_soil": "2024-12-13 05:53:30 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_flute": {
+  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
     "criteria": {
-      "bestiary": "2024-12-13 06:57:55 +0000"
+      "has_soil": "2024-12-13 05:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2024-12-13 06:03:29 +0000"
     },
     "done": true
   },
@@ -12464,63 +12470,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/glow_ink_sac_decomposing": {
-    "criteria": {
-      "has_glow_ink_sac": "2024-12-13 06:25:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2024-12-13 06:17:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_staff": {
-    "criteria": {
-      "bestiary": "2024-12-13 06:56:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2024-12-13 06:25:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
       "has_mud_bricks": "2024-12-13 06:03:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2024-12-13 06:36:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_troll": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-13 06:39:28 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
-    "criteria": {
-      "has_soil": "2024-12-13 05:53:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_horn": {
-    "criteria": {
-      "bestiary": "2024-12-13 06:57:20 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
-    "criteria": {
-      "has_soil": "2024-12-13 05:53:30 +0000"
     },
     "done": true
   },
@@ -12536,15 +12488,69 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_frostmaw": {
+  "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
-      "frostmaw": "2024-12-13 06:44:49 +0000"
+      "egg": "2024-12-13 06:17:53 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/glow_ink_sac_decomposing": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-13 06:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-13 06:25:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-13 06:36:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-13 06:39:28 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2024-12-13 06:40:19 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2024-12-13 06:44:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-12-13 06:56:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-12-13 06:57:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2024-12-13 06:57:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-12-13 07:49:43 +0000"
     },
     "done": true
   },
