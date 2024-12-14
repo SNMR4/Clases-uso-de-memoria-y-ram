@@ -10268,3 +10268,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Dec2024 04:19:30.612] [Netty Epoll Server IO #2/DEBUG] [com.kotori316.fluidtank.recipe.TierRecipe/]: Serialized fluidtank:tank_star to packet for tier Star.
 [14Dec2024 04:19:30.631] [Netty Epoll Server IO #2/DEBUG] [com.kotori316.fluidtank.recipe.TierRecipe/]: Serialized fluidtank:tank_silver to packet for tier Silver.
 [14Dec2024 04:19:30.636] [Netty Epoll Server IO #2/DEBUG] [com.kotori316.fluidtank.recipe.TierRecipe/]: Serialized fluidtank:tank_lead to packet for tier Lead.
+[14Dec2024 04:24:08.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 04:24:08.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 04:24:34.343] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[14Dec2024 04:25:49.045] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[14Dec2024 04:25:49.049] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
+[14Dec2024 04:28:15.330] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:wall_double_compressed_torcherino at 131, 93, -135.
+[14Dec2024 04:28:50.744] [Server thread/INFO] [Scaling Health/]: Blight Phantom was killed by Draconic Evolution Grinder
+[14Dec2024 04:29:08.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 04:29:08.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 04:29:17.745] [Server thread/INFO] [Scaling Health/]: Blight Phantom was killed by Draconic Evolution Grinder
+[14Dec2024 04:30:52.272] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:compressed_torcherino at 131, 92, -135.
+[14Dec2024 04:32:01.900] [Server thread/INFO] [Scaling Health/]: Blight Wither Skeleton was killed by Draconic Evolution Grinder
+[14Dec2024 04:32:07.594] [Server thread/INFO] [Scaling Health/]: Blight Wither Skeleton was killed by Draconic Evolution Grinder
