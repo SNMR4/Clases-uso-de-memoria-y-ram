@@ -9884,3 +9884,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Dec2024 03:58:38.338] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
 [14Dec2024 03:59:08.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Dec2024 03:59:08.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 04:03:29.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[14Dec2024 04:04:08.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 04:04:08.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 04:04:48.973] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:double_compressed_torcherino at 131, 92, -135.
+[14Dec2024 04:05:03.126] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[14Dec2024 04:05:03.318] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@5de55a06 for service interface com.blamejared.clumps.platform.IEventHelper
+[14Dec2024 04:05:03.319] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@7eabf610 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[14Dec2024 04:05:20.137] [Server thread/DEBUG] [mixin/]: Mixing AxolotlAiMixin from domesticationinnovation.mixins.json into net.minecraft.world.entity.animal.axolotl.AxolotlAi
+[14Dec2024 04:05:21.294] [Server thread/INFO] [Scaling Health/]: Blight Witch was killed by Draconic Evolution Grinder
+[14Dec2024 04:05:29.394] [Server thread/INFO] [Scaling Health/]: Blight Witch was killed by Draconic Evolution Grinder
+[14Dec2024 04:05:38.396] [Server thread/INFO] [Scaling Health/]: Blight Witch was killed by Draconic Evolution Grinder
+[14Dec2024 04:05:43.794] [Server thread/INFO] [Scaling Health/]: Blight Witch was killed by Draconic Evolution Grinder
+[14Dec2024 04:06:02.396] [Server thread/INFO] [Scaling Health/]: Blight Witch was killed by Draconic Evolution Grinder
+[14Dec2024 04:07:15.297] [Server thread/INFO] [Scaling Health/]: Blight Witch was killed by Draconic Evolution Grinder
+[14Dec2024 04:07:18.898] [Server thread/INFO] [Scaling Health/]: Blight Witch was killed by Draconic Evolution Grinder
+[14Dec2024 04:07:23.397] [Server thread/INFO] [Scaling Health/]: Blight Witch was killed by Draconic Evolution Grinder
+[14Dec2024 04:07:26.098] [Server thread/INFO] [Scaling Health/]: Blight Witch was killed by Draconic Evolution Grinder
+[14Dec2024 04:09:08.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 04:09:08.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 04:12:43.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Timed out
+[14Dec2024 04:12:43.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
