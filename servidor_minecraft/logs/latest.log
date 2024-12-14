@@ -1828,3 +1828,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [14Dec2024 04:07:26.098] [Server thread/INFO] [Scaling Health/]: Blight Witch was killed by Draconic Evolution Grinder
 [14Dec2024 04:12:43.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Timed out
 [14Dec2024 04:12:43.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[14Dec2024 04:19:30.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:36639] logged in with entity id 8985 at (128.8092016952596, 95.5, -141.54689772773182)
+[14Dec2024 04:19:30.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[14Dec2024 04:19:30.424] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[14Dec2024 04:19:30.425] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[14Dec2024 04:19:30.426] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
