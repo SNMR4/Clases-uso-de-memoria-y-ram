@@ -1913,3 +1913,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Dec2024 06:31:02.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Zombie
 [17Dec2024 06:31:07.786] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [17Dec2024 06:31:07.786] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Dec2024 06:33:35.759] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/32579, l='ServerLevel[world]', x=-3568.19, y=70.91, z=-1406.60]
+[17Dec2024 06:33:35.760] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/32586, l='ServerLevel[world]', x=-3568.01, y=69.26, z=-1413.39]
+[17Dec2024 06:33:35.760] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/32587, l='ServerLevel[world]', x=-3569.78, y=68.31, z=-1416.83]
+[17Dec2024 06:33:35.760] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/32588, l='ServerLevel[world]', x=-3573.24, y=67.37, z=-1419.32]
+[17Dec2024 06:36:26.905] [Worker-Main-155/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[17Dec2024 06:36:27.597] [Worker-Main-67/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[17Dec2024 06:38:35.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid was struck with lightning by Lightning Dragon
+[17Dec2024 06:38:36.958] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Dec2024 06:38:36.959] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[17Dec2024 06:42:57.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
+[17Dec2024 06:44:20.763] [Server thread/INFO] [Scaling Health/]: Blight Lightning Dragon was killed by Lex_Ssuid
+[17Dec2024 06:45:41.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [My Name is Nobody]
+[17Dec2024 06:47:38.840] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Gina the Ninja'/46959, l='ServerLevel[world]', x=81.51, y=92.00, z=163.36] died: Gina the Ninja was slain by Lex_Ssuid
+[17Dec2024 06:47:41.237] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/46961, l='ServerLevel[world]', x=82.38, y=91.00, z=162.24] died: Undead Knight was slain by Lex_Ssuid
+[17Dec2024 06:50:00.320] [Server thread/INFO] [Scaling Health/]: Blight Pillager was killed by AkujinPas
+[17Dec2024 06:52:49.143] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
