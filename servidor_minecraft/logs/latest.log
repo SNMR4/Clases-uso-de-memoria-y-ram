@@ -1888,3 +1888,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Dec2024 05:41:20.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
 [17Dec2024 05:41:25.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
 [17Dec2024 05:41:43.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Hera'/14091, l='ServerLevel[world]', x=168.30, y=71.00, z=-157.54] died: Hera was slain by AkujinPas
+[17Dec2024 05:54:05.613] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=148, y=91, z=-173}
+[17Dec2024 06:02:18.225] [Server thread/INFO] [Scaling Health/]: Blight Iron Golem was killed by Lex_Ssuid
