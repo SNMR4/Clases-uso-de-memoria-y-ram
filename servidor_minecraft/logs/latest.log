@@ -1890,3 +1890,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Dec2024 05:41:43.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Hera'/14091, l='ServerLevel[world]', x=168.30, y=71.00, z=-157.54] died: Hera was slain by AkujinPas
 [17Dec2024 05:54:05.613] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=148, y=91, z=-173}
 [17Dec2024 06:02:18.225] [Server thread/INFO] [Scaling Health/]: Blight Iron Golem was killed by Lex_Ssuid
+[17Dec2024 06:03:12.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has completed the challenge [Hero of the Village]
+[17Dec2024 06:06:43.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[17Dec2024 06:06:43.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[17Dec2024 06:10:49.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:33051] logged in with entity id 23280 at (102.30000001192093, 111.0, -132.06516895233182)
+[17Dec2024 06:10:49.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[17Dec2024 06:10:49.511] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[17Dec2024 06:10:49.511] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[17Dec2024 06:10:49.512] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[17Dec2024 06:12:20.373] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
