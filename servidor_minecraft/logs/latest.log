@@ -1841,3 +1841,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Dec2024 04:36:45.599] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
 [17Dec2024 04:37:07.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/su5ed/mffs/util/Fortron$Action
 [17Dec2024 04:39:04.480] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[17Dec2024 04:40:49.613] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[17Dec2024 04:40:49.614] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md96c708$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[17Dec2024 04:41:00.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Timed out
+[17Dec2024 04:41:00.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[17Dec2024 04:41:20.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:32789] logged in with entity id 1416 at (112.26075026554827, 95.5, -145.6635600451779)
+[17Dec2024 04:41:20.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[17Dec2024 04:41:20.900] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[17Dec2024 04:41:20.901] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[17Dec2024 04:41:20.903] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[17Dec2024 04:47:11.093] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[17Dec2024 04:47:25.805] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
