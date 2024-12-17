@@ -12622,3 +12622,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Dec2024 06:22:31.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
 [17Dec2024 06:22:31.570] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
 [17Dec2024 06:22:31.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[17Dec2024 06:23:09.603] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[17Dec2024 06:25:02.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 06:25:02.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 06:28:05.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
+[17Dec2024 06:28:05.571] [Server thread/INFO] [Scaling Health/]: Blight Vex has died
+[17Dec2024 06:28:05.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
+[17Dec2024 06:28:11.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Vex
+[17Dec2024 06:28:15.160] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Dec2024 06:28:15.161] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17Dec2024 06:28:15.183] [Server thread/DEBUG] [twilightforest/]: Player AkujinPas (57c8368e-093c-33cd-9ed8-a4d2d1c1504f) respawned and received items held in storage
+[17Dec2024 06:30:02.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 06:30:02.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 06:31:02.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Zombie
+[17Dec2024 06:31:07.786] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Dec2024 06:31:07.786] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[17Dec2024 06:31:07.800] [Server thread/DEBUG] [twilightforest/]: Player AkujinPas (57c8368e-093c-33cd-9ed8-a4d2d1c1504f) respawned and received items held in storage

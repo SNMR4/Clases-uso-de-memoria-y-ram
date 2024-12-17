@@ -1903,3 +1903,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Dec2024 06:17:43.972] [Server thread/INFO] [Scaling Health/]: Blight Wraith was killed by AkujinPas
 [17Dec2024 06:19:19.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
 [17Dec2024 06:22:31.570] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
+[17Dec2024 06:23:09.603] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[17Dec2024 06:28:05.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
+[17Dec2024 06:28:05.571] [Server thread/INFO] [Scaling Health/]: Blight Vex has died
+[17Dec2024 06:28:05.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
+[17Dec2024 06:28:11.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Vex
+[17Dec2024 06:28:15.160] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Dec2024 06:28:15.161] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[17Dec2024 06:31:02.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Zombie
+[17Dec2024 06:31:07.786] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[17Dec2024 06:31:07.786] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
