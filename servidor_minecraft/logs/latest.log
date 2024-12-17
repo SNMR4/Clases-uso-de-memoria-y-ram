@@ -1944,3 +1944,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Dec2024 07:34:08.606] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
 [17Dec2024 07:48:13.370] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
 [17Dec2024 07:52:47.596] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[17Dec2024 07:55:50.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/73408, l='ServerLevel[world]', x=-1409.70, y=97.41, z=-953.70] died: Undead Knight burned to death
+[17Dec2024 07:56:12.160] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Captain Wolfthar the Wimpy'/73870, l='ServerLevel[world]', x=-1381.48, y=-14.00, z=-924.53] died: Captain Wolfthar the Wimpy was slain by Lex_Ssuid
+[17Dec2024 07:57:47.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
+[17Dec2024 07:58:40.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
+[17Dec2024 07:59:51.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
+[17Dec2024 08:07:09.023] [Server thread/INFO] [Scaling Health/]: Blight Vex was killed by AkujinPas
+[17Dec2024 08:08:38.327] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestegg/guardvillagers/entities/ai/goals/RangedCrossbowAttackPassiveGoal$CrossbowState
+[17Dec2024 08:13:56.677] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[17Dec2024 08:14:42.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind

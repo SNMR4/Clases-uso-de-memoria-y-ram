@@ -354,6 +354,7 @@
       "fir_clearing": "2024-11-25 03:19:24 +0000",
       "pumpkin_patch": "2024-11-25 02:32:37 +0000",
       "grassland": "2024-11-24 05:52:16 +0000",
+      "prairie": "2024-12-17 08:13:18 +0000",
       "snowy_coniferous_forest": "2024-11-24 08:13:13 +0000",
       "snowy_fir_clearing": "2024-11-24 08:14:16 +0000",
       "tundra": "2024-11-24 08:10:36 +0000",
@@ -12947,6 +12948,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2024-12-17 08:10:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-17 06:22:37 +0000"
@@ -12974,6 +12981,12 @@
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-17 05:39:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2024-12-17 08:07:37 +0000"
     },
     "done": true
   },
@@ -13019,6 +13032,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2024-12-17 08:10:08 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-17 05:39:36 +0000"
@@ -13055,6 +13074,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2024-12-17 08:10:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_leggings": {
     "criteria": {
       "has_item": "2024-12-17 06:44:56 +0000"
@@ -13073,9 +13098,33 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/bamboo_decomposing": {
+    "criteria": {
+      "has_bamboo": "2024-12-17 08:07:37 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_bamboo": {
+    "criteria": {
+      "has_bamboo": "2024-12-17 08:07:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-17 06:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-17 08:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-17 08:07:37 +0000"
     },
     "done": true
   },
@@ -13118,6 +13167,12 @@
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-17 05:39:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2024-12-17 08:02:29 +0000"
     },
     "done": true
   },
@@ -13229,6 +13284,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-17 08:10:08 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-17 05:39:36 +0000"
@@ -13256,6 +13317,18 @@
   "handcrafted:recipes/misc/bricks_pillar_trim": {
     "criteria": {
       "has_bricks_pillar_trim": "2024-12-17 06:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-17 08:07:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2024-12-17 08:10:08 +0000"
     },
     "done": true
   },
