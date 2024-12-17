@@ -1929,3 +1929,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Dec2024 06:47:41.237] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/46961, l='ServerLevel[world]', x=82.38, y=91.00, z=162.24] died: Undead Knight was slain by Lex_Ssuid
 [17Dec2024 06:50:00.320] [Server thread/INFO] [Scaling Health/]: Blight Pillager was killed by AkujinPas
 [17Dec2024 06:52:49.143] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[17Dec2024 06:55:52.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/50, l='ServerLevel[world]', x=96.50, y=78.00, z=123.30] was struck by lightning LightningBolt['Lightning Bolt'/52128, l='ServerLevel[world]', x=98.73, y=77.00, z=120.41].
