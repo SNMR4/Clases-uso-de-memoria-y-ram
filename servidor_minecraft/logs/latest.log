@@ -1899,3 +1899,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Dec2024 06:10:49.511] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [17Dec2024 06:10:49.512] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
 [17Dec2024 06:12:20.373] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[17Dec2024 06:16:53.826] [Server thread/INFO] [Scaling Health/]: Blight Vindicator was killed by AkujinPas
+[17Dec2024 06:17:43.972] [Server thread/INFO] [Scaling Health/]: Blight Wraith was killed by AkujinPas
+[17Dec2024 06:19:19.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
+[17Dec2024 06:22:31.570] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
