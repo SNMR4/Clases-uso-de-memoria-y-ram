@@ -1873,3 +1873,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Dec2024 05:19:13.116] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
 [17Dec2024 05:20:05.125] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
 [17Dec2024 05:20:41.455] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[17Dec2024 05:22:02.400] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[17Dec2024 05:24:42.150] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[17Dec2024 05:30:58.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.220.225.134:41237] logged in with entity id 10392 at (103.43982627238952, 81.5, 127.03993522648565)
+[17Dec2024 05:30:58.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[17Dec2024 05:30:58.157] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
+[17Dec2024 05:30:58.157] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[17Dec2024 05:30:58.158] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
