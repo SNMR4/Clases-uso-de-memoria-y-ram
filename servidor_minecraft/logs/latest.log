@@ -1852,3 +1852,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Dec2024 04:41:20.903] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
 [17Dec2024 04:47:11.093] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
 [17Dec2024 04:47:25.805] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[17Dec2024 04:56:31.099] [Server thread/INFO] [Scaling Health/]: Blight Fly has died
+[17Dec2024 04:57:17.555] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/Tiers$SlotType
+[17Dec2024 04:57:19.254] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[17Dec2024 04:57:19.260] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
+[17Dec2024 04:58:15.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[17Dec2024 05:00:13.552] [Server thread/INFO] [Scaling Health/]: Blight Blaze was killed by Draconic Evolution Grinder
