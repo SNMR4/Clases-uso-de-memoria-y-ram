@@ -1880,3 +1880,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Dec2024 05:30:58.157] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
 [17Dec2024 05:30:58.157] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [17Dec2024 05:30:58.158] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[17Dec2024 05:31:49.461] [Server thread/INFO] [Scaling Health/]: Blight Pillager was killed by AkujinPas
+[17Dec2024 05:33:21.644] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[17Dec2024 05:38:00.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[17Dec2024 05:39:24.857] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[17Dec2024 05:39:36.636] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[17Dec2024 05:41:20.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
+[17Dec2024 05:41:25.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
+[17Dec2024 05:41:43.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Hera'/14091, l='ServerLevel[world]', x=168.30, y=71.00, z=-157.54] died: Hera was slain by AkujinPas
