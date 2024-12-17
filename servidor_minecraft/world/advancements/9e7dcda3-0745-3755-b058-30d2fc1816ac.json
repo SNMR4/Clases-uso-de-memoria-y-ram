@@ -325,6 +325,7 @@
       "shrubland": "2024-11-25 01:58:44 +0000",
       "rocky_shrubland": "2024-11-25 01:59:11 +0000",
       "scrubland": "2024-11-25 02:56:03 +0000",
+      "bayou": "2024-12-14 06:02:15 +0000",
       "erupting_inferno": "2024-11-25 08:16:50 +0000",
       "highland": "2024-11-22 07:03:58 +0000",
       "marsh": "2024-11-27 05:51:07 +0000",
@@ -347,6 +348,7 @@
       "seasonal_orchard": "2024-11-24 09:27:33 +0000",
       "dune_beach": "2024-12-02 00:14:01 +0000",
       "seasonal_forest": "2024-11-23 07:25:29 +0000",
+      "pasture": "2024-12-14 06:38:10 +0000",
       "volcanic_plains": "2024-11-25 07:32:28 +0000",
       "lavender_field": "2024-11-27 05:04:25 +0000",
       "fir_clearing": "2024-11-25 03:19:24 +0000",
@@ -1247,10 +1249,13 @@
       "minecraft:snowy_slopes": "2024-11-24 09:34:57 +0000",
       "minecraft:frozen_river": "2024-11-24 08:10:26 +0000",
       "minecraft:cherry_grove": "2024-11-25 03:11:53 +0000",
+      "minecraft:sunflower_plains": "2024-12-14 06:38:17 +0000",
       "minecraft:birch_forest": "2024-11-22 07:08:55 +0000",
       "minecraft:windswept_hills": "2024-12-07 05:14:41 +0000",
+      "minecraft:savanna_plateau": "2024-12-14 06:10:59 +0000",
       "minecraft:beach": "2024-12-02 00:13:38 +0000",
       "minecraft:dark_forest": "2024-11-23 06:56:28 +0000",
+      "minecraft:mangrove_swamp": "2024-12-14 06:02:12 +0000",
       "minecraft:sparse_jungle": "2024-11-28 07:12:38 +0000",
       "minecraft:river": "2024-11-22 07:08:28 +0000",
       "minecraft:lukewarm_ocean": "2024-12-05 06:46:19 +0000",
@@ -1270,6 +1275,7 @@
       "minecraft:ocean": "2024-12-02 00:13:42 +0000",
       "minecraft:windswept_savanna": "2024-12-05 06:45:09 +0000",
       "minecraft:warm_ocean": "2024-12-05 06:41:37 +0000",
+      "minecraft:frozen_peaks": "2024-12-14 05:21:03 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-25 07:58:03 +0000",
       "minecraft:deep_dark": "2024-11-25 06:03:59 +0000",
       "minecraft:meadow": "2024-11-24 07:38:21 +0000",
@@ -2542,6 +2548,7 @@
       "chorus_fruit": "2024-11-30 06:54:31 +0000",
       "baked_potato": "2024-11-24 07:40:55 +0000",
       "porkchop": "2024-12-13 06:13:19 +0000",
+      "tropical_fish": "2024-12-14 05:56:04 +0000",
       "apple": "2024-11-23 06:48:23 +0000",
       "cooked_cod": "2024-11-29 07:29:10 +0000",
       "pumpkin_pie": "2024-11-26 05:56:00 +0000",
@@ -2601,6 +2608,7 @@
       "minecraft:enderman": "2024-11-25 07:06:51 +0000",
       "minecraft:stray": "2024-11-26 07:33:52 +0000",
       "minecraft:silverfish": "2024-12-05 05:23:07 +0000",
+      "minecraft:endermite": "2024-12-14 06:24:50 +0000",
       "minecraft:zombie": "2024-11-22 07:17:03 +0000",
       "minecraft:drowned": "2024-11-25 07:44:36 +0000",
       "minecraft:zombie_villager": "2024-12-02 02:28:53 +0000"
@@ -12551,6 +12559,372 @@
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2024-12-13 07:49:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2024-12-14 05:18:47 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:derelict_grass_tower": {
+    "criteria": {
+      "derelict_grass": "2024-12-14 05:20:01 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/tropical_fish_decomposing": {
+    "criteria": {
+      "has_tropical_fish": "2024-12-14 05:55:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2024-12-14 06:35:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2024-12-14 06:35:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2024-12-14 06:35:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-14 06:35:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2024-12-14 06:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/pumpkin_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/end_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/magma_cube_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/sheep_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/coal_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/sponge_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/snow_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spider_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/standard_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/hay_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/chicken_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/squid_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bat_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/horse_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/ocelot_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lapis_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bookshelf_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/cactus_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/cow_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/ghast_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/melon_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/redstone_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/skeleton_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bee_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/sandstone_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/emerald_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/cake_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/villager_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/pig_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/quartz_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_golem_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wolf_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/creeper_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/gold_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fox_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/dragon_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wither_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/blaze_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/enderman_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/nether_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2024-12-14 06:49:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-14 07:22:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2024-12-14 07:22:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-14 07:22:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2024-12-14 07:22:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-14 07:22:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2024-12-14 07:22:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_redwood": {
+    "criteria": {
+      "has_planks": "2024-12-14 07:22:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2024-12-14 07:22:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2024-12-14 07:22:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-14 07:22:10 +0000"
     },
     "done": true
   },

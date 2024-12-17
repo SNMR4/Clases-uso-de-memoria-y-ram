@@ -336,8 +336,11 @@
       "cold_desert": "2024-11-24 10:10:54 +0000",
       "old_growth_woodland": "2024-11-27 08:04:12 +0000",
       "maple_woods": "2024-11-22 07:22:03 +0000",
+      "crystalline_chasm": "2024-12-14 06:49:17 +0000",
       "orchard": "2024-11-23 07:16:19 +0000",
       "field": "2024-12-10 07:35:02 +0000",
+      "lavender_forest": "2024-12-14 05:28:08 +0000",
+      "moor": "2024-12-14 07:19:51 +0000",
       "mediterranean_forest": "2024-11-27 08:03:23 +0000",
       "coniferous_forest": "2024-11-22 07:26:31 +0000",
       "spider_nest": "2024-11-25 05:39:23 +0000",
@@ -610,6 +613,7 @@
       "minecraft:stony_shore": "2024-11-22 06:23:07 +0000",
       "minecraft:dripstone_caves": "2024-12-10 06:06:43 +0000",
       "minecraft:snowy_taiga": "2024-12-10 07:36:24 +0000",
+      "minecraft:swamp": "2024-12-14 07:18:37 +0000",
       "minecraft:cold_ocean": "2024-12-10 07:39:51 +0000",
       "minecraft:forest": "2024-11-22 07:24:31 +0000",
       "minecraft:lush_caves": "2024-11-22 09:37:21 +0000",
@@ -2478,10 +2482,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-11-23 07:01:19 +0000",
+      "minecraft:blaze": "2024-12-14 06:21:53 +0000",
       "minecraft:skeleton": "2024-11-22 08:04:04 +0000",
       "minecraft:ravager": "2024-11-24 11:41:24 +0000",
       "minecraft:vindicator": "2024-11-24 11:22:38 +0000",
       "minecraft:spider": "2024-11-23 06:42:26 +0000",
+      "minecraft:piglin_brute": "2024-12-14 06:58:13 +0000",
       "minecraft:creeper": "2024-11-24 05:12:01 +0000",
       "minecraft:evoker": "2024-11-24 11:46:25 +0000",
       "minecraft:slime": "2024-12-10 05:42:31 +0000",
@@ -2497,6 +2503,7 @@
       "minecraft:enderman": "2024-11-26 04:26:35 +0000",
       "minecraft:vex": "2024-11-24 11:46:28 +0000",
       "minecraft:zombie": "2024-11-22 07:19:03 +0000",
+      "minecraft:drowned": "2024-12-14 07:57:21 +0000",
       "minecraft:zombie_villager": "2024-11-24 11:54:51 +0000"
     },
     "done": false
@@ -6716,9 +6723,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-11-29 05:01:59 +0000",
       "minecraft:nether_wastes": "2024-11-23 07:53:44 +0000",
-      "minecraft:warped_forest": "2024-11-26 10:01:37 +0000"
+      "minecraft:soul_sand_valley": "2024-12-14 06:48:16 +0000",
+      "minecraft:warped_forest": "2024-11-26 10:01:37 +0000",
+      "minecraft:basalt_deltas": "2024-12-14 06:57:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -12901,6 +12910,282 @@
   "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
     "criteria": {
       "has_compacting_upgrade": "2024-12-14 03:50:27 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_void": {
+    "criteria": {
+      "has_tank_wood": "2024-12-14 04:45:08 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/reservoir_wood": {
+    "criteria": {
+      "has_tank_wood": "2024-12-14 04:45:08 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/chest_as_tank": {
+    "criteria": {
+      "has_tank_wood": "2024-12-14 04:45:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2024-12-14 05:07:14 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2024-12-14 05:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-14 05:08:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-14 05:11:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-14 05:12:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2024-12-14 05:33:27 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/mosquito_larva_decomposing": {
+    "criteria": {
+      "has_mosquito_larva": "2024-12-14 05:33:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-12-14 05:33:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-12-14 05:33:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/globe": {
+    "criteria": {
+      "has_globe_sepia": "2024-12-14 05:33:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2024-12-14 05:40:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-14 05:41:49 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/bear_fur_decomposing": {
+    "criteria": {
+      "has_bear_fur": "2024-12-14 05:41:53 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2024-12-14 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_cushion": {
+    "criteria": {
+      "has_brown_cushion": "2024-12-14 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-14 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-14 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2024-12-14 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-14 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_sheet": {
+    "criteria": {
+      "has_brown_sheet": "2024-12-14 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-14 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2024-12-14 06:06:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2024-12-14 06:06:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2024-12-14 06:06:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-14 06:06:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2024-12-14 06:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-14 06:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-14 06:10:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/rabbit_decomposing": {
+    "criteria": {
+      "has_rabbit": "2024-12-14 06:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-14 06:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-14 06:10:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/rabbit_hide_decomposing": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-14 06:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-14 06:10:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/rabbit_foot_decomposing": {
+    "criteria": {
+      "has_rabbit_foot": "2024-12-14 06:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-14 06:21:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2024-12-14 06:21:18 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-14 06:48:28 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
+    "criteria": {
+      "has_soil": "2024-12-14 06:51:17 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
+    "criteria": {
+      "has_soil": "2024-12-14 06:51:17 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/forbidden_fruit": {
+    "criteria": {
+      "has_items": "2024-12-14 06:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-12-14 07:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-14 07:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2024-12-14 07:28:53 +0000"
     },
     "done": true
   },
