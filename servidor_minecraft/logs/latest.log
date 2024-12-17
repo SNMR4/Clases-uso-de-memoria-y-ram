@@ -1934,3 +1934,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Dec2024 07:05:14.368] [Server thread/INFO] [torcherino-api/]: [Torcherino] Lex_Ssuid(9e7dcda3-0745-3755-b058-30d2fc1816ac) placed a torcherino:double_compressed_torcherino at 122, 92, 186.
 [17Dec2024 07:05:23.910] [Server thread/INFO] [torcherino-api/]: [Torcherino] Lex_Ssuid(9e7dcda3-0745-3755-b058-30d2fc1816ac) placed a torcherino:double_compressed_torcherino at 122, 92, 187.
 [17Dec2024 07:08:45.709] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[17Dec2024 07:18:39.880] [Server thread/INFO] [Scaling Health/]: Blight Frostmaw was killed by AkujinPas
+[17Dec2024 07:18:39.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has completed the challenge [Rude Awakening]
+[17Dec2024 07:22:01.034] [Server thread/INFO] [torcherino-api/]: [Torcherino] Lex_Ssuid(9e7dcda3-0745-3755-b058-30d2fc1816ac) placed a torcherino:double_compressed_torcherino at 99, 79, 128.

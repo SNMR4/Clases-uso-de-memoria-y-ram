@@ -13150,6 +13150,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/poisonous_potato_decomposing": {
+    "criteria": {
+      "has_poisonous_potato": "2024-12-17 07:18:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bricks_corner_trim": {
     "criteria": {
       "has_bricks_corner_trim": "2024-12-17 06:22:37 +0000"
