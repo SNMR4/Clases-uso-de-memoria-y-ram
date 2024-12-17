@@ -1818,3 +1818,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Dec2024 04:27:12.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Timed out
 [17Dec2024 04:27:12.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
 [17Dec2024 04:28:08.448] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6cd00e0[id=<null>,name=AkujinPas,properties={},legacy=false] (/127.196.55.183:39647) lost connection: Disconnected
+[17Dec2024 04:33:58.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:50839] logged in with entity id 498 at (124.29408494777171, 100.0, -146.75923718771227)
+[17Dec2024 04:33:58.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[17Dec2024 04:33:58.426] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[17Dec2024 04:33:58.427] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[17Dec2024 04:33:58.427] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[17Dec2024 04:34:28.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Timed out
+[17Dec2024 04:34:28.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[17Dec2024 04:34:47.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:47153] logged in with entity id 613 at (124.29408494777171, 100.0, -146.75923718771227)
+[17Dec2024 04:34:47.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[17Dec2024 04:34:47.672] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[17Dec2024 04:34:47.672] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[17Dec2024 04:34:47.673] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[17Dec2024 04:35:17.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Timed out
+[17Dec2024 04:35:17.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[17Dec2024 04:36:29.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:34437] logged in with entity id 724 at (124.29408494777171, 100.0, -146.75923718771227)
+[17Dec2024 04:36:29.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[17Dec2024 04:36:30.004] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[17Dec2024 04:36:30.004] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[17Dec2024 04:36:30.006] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[17Dec2024 04:36:45.587] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[17Dec2024 04:36:45.599] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[17Dec2024 04:37:07.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/su5ed/mffs/util/Fortron$Action
+[17Dec2024 04:39:04.480] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
