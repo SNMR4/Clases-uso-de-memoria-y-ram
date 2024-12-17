@@ -1937,3 +1937,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Dec2024 07:18:39.880] [Server thread/INFO] [Scaling Health/]: Blight Frostmaw was killed by AkujinPas
 [17Dec2024 07:18:39.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has completed the challenge [Rude Awakening]
 [17Dec2024 07:22:01.034] [Server thread/INFO] [torcherino-api/]: [Torcherino] Lex_Ssuid(9e7dcda3-0745-3755-b058-30d2fc1816ac) placed a torcherino:double_compressed_torcherino at 99, 79, 128.
+[17Dec2024 07:25:34.410] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{AkujinPas})
+[17Dec2024 07:29:01.575] [Server thread/INFO] [torcherino-api/]: [Torcherino] Lex_Ssuid(9e7dcda3-0745-3755-b058-30d2fc1816ac) placed a torcherino:wall_double_compressed_torcherino at 95, 79, 129.
+[17Dec2024 07:30:45.860] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/client/render/entity/player/GeckoPlayer$Perspective
+[17Dec2024 07:30:45.861] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/PlayerAbility$HandDisplay
+[17Dec2024 07:34:08.606] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died

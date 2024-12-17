@@ -4328,6 +4328,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2024-11-24 08:37:24 +0000",
+      "onion": "2024-12-17 07:28:13 +0000",
       "sweet_berries": "2024-11-24 08:08:46 +0000",
       "tomato": "2024-11-24 08:37:58 +0000",
       "beetroot": "2024-11-25 06:22:40 +0000",
@@ -13048,6 +13049,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_blinds": {
+    "criteria": {
+      "has_log": "2024-12-17 07:31:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_leggings": {
     "criteria": {
       "has_item": "2024-12-17 06:44:56 +0000"
@@ -13084,9 +13091,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-17 07:31:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-17 05:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-17 07:31:40 +0000"
     },
     "done": true
   },
@@ -13144,6 +13163,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-17 07:31:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-17 05:39:36 +0000"
@@ -13183,6 +13208,12 @@
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2024-12-17 06:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 07:31:40 +0000"
     },
     "done": true
   },
