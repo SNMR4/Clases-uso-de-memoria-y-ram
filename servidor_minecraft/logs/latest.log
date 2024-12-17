@@ -1942,3 +1942,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17Dec2024 07:30:45.860] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/client/render/entity/player/GeckoPlayer$Perspective
 [17Dec2024 07:30:45.861] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/PlayerAbility$HandDisplay
 [17Dec2024 07:34:08.606] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[17Dec2024 07:48:13.370] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[17Dec2024 07:52:47.596] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
