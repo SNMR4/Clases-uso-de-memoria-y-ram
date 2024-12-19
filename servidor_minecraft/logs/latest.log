@@ -1826,3 +1826,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Dec2024 04:17:53.829] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
 [19Dec2024 04:17:56.968] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/2324, l='ServerLevel[world]', x=130.65, y=91.85, z=-138.42] died: Honeyed Archer was slain by Draconic Evolution Grinder
 [19Dec2024 04:24:04.761] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[19Dec2024 04:28:20.166] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/5742, l='ServerLevel[world]', x=-860.63, y=111.41, z=124.02] died: Undead Knight suffocated in a wall
+[19Dec2024 04:28:24.457] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[19Dec2024 04:33:22.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved wrongly!
