@@ -1820,3 +1820,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [19Dec2024 04:07:53.363] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
 [19Dec2024 04:08:04.658] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
 [19Dec2024 04:13:51.625] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/azure/azurelib/core/object/PlayState
+[19Dec2024 04:14:58.621] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:compressed_torcherino at 129, 92, -136.
+[19Dec2024 04:15:32.266] [Server thread/INFO] [Scaling Health/]: Blight Chaingunner was killed by Draconic Evolution Grinder
+[19Dec2024 04:17:53.822] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[19Dec2024 04:17:53.829] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
+[19Dec2024 04:17:56.968] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/2324, l='ServerLevel[world]', x=130.65, y=91.85, z=-138.42] died: Honeyed Archer was slain by Draconic Evolution Grinder
+[19Dec2024 04:24:04.761] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
