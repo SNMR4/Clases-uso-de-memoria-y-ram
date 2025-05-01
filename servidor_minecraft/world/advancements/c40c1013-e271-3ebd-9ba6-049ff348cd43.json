@@ -60,10 +60,12 @@
       "minecraft:savanna_plateau": "2025-04-23 04:17:50 +0000",
       "minecraft:stony_peaks": "2025-04-23 04:17:47 +0000",
       "minecraft:river": "2025-04-23 08:17:06 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-01 03:03:53 +0000",
       "minecraft:stony_shore": "2025-04-23 09:01:03 +0000",
       "minecraft:jagged_peaks": "2025-04-23 08:01:10 +0000",
       "minecraft:forest": "2025-04-23 08:08:21 +0000",
       "minecraft:ocean": "2025-04-23 09:03:04 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-01 03:04:08 +0000",
       "minecraft:flower_forest": "2025-04-23 04:05:54 +0000",
       "minecraft:meadow": "2025-04-23 04:17:36 +0000",
       "minecraft:savanna": "2025-04-23 04:40:23 +0000",
@@ -6887,9 +6889,33 @@
     },
     "done": true
   },
+  "slashblade:enchantment/feather_falling": {
+    "criteria": {
+      "customtrigger": "2025-05-01 03:07:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-05-01 02:47:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-01 03:08:03 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2025-05-01 03:06:00 +0000"
+    },
+    "done": true
+  },
+  "slashblade:enchantment/root": {
+    "criteria": {
+      "customtrigger": "2025-05-01 03:07:05 +0000"
     },
     "done": true
   },
