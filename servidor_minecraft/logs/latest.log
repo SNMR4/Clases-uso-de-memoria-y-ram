@@ -731,3 +731,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01May2025 01:51:35.573] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/316, l='ServerLevel[world]', x=92.84, y=91.10, z=-93.36] died, message: 'Villager was squished too much'
 [01May2025 01:55:01.229] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/281, l='ServerLevel[world]', x=86.91, y=89.00, z=-86.50] died, message: 'Fletcher was slain by Zombie batu'
 [01May2025 01:55:21.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/283, l='ServerLevel[world]', x=87.47, y=90.00, z=-87.44] died, message: 'Fletcher was slain by Zombie batu'
+[01May2025 02:03:44.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.74.91.156:48917] logged in with entity id 20874 at (-2048.8263083058287, 68.0, -974.5941449602268)
+[01May2025 02:03:44.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[01May2025 02:03:45.523] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3174ms or 63 ticks
+[01May2025 02:06:21.770] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/284, l='ServerLevel[world]', x=85.50, y=90.00, z=-87.41] died, message: 'Fletcher was slain by Zombie batu'
+[01May2025 02:07:58.981] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/282, l='ServerLevel[world]', x=83.49, y=90.00, z=-87.49] died, message: 'Fletcher was slain by Zombie batu'
+[01May2025 02:08:17.123] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/304, l='ServerLevel[world]', x=81.50, y=90.00, z=-87.30] died, message: 'Librarian was slain by Zombie batu'
+[01May2025 02:10:43.608] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3039ms or 60 ticks
+[01May2025 02:11:36.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has reached the goal [Zombie Doctor]
