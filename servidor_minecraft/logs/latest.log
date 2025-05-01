@@ -864,3 +864,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01May2025 03:45:29.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: claosgamer lost connection: Disconnected
 [01May2025 03:45:29.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer left the game
 [01May2025 03:51:02.854] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3177ms or 63 ticks
+[01May2025 03:57:00.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: ica_1016
+[01May2025 03:57:32.870] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28516, l='ServerLevel[world]', x=92.81, y=91.03, z=-93.50] died, message: 'Villager was squished too much'
+[01May2025 04:03:17.107] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:46867] logged in with entity id 110413 at (107.22349206589645, 111.0, -113.36547177675475)
+[01May2025 04:03:17.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[01May2025 04:03:42.784] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14994, l='ServerLevel[world]', x=92.88, y=91.17, z=-93.47] died, message: 'Villager was squished too much'
