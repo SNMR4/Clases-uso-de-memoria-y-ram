@@ -922,3 +922,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01May2025 04:33:10.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3147ms or 62 ticks behind
 [01May2025 04:33:27.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2541ms or 50 ticks behind
 [01May2025 04:33:39.101] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3028ms or 60 ticks
+[01May2025 04:36:41.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 moved too quickly! 3.9755952551066684,-4.0,8.456860804068356
+[01May2025 04:40:58.225] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/92865, l='ServerLevel[world]', x=92.78, y=91.32, z=-93.30] died, message: 'Villager was squished too much'
+[01May2025 04:43:15.223] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20391, l='ServerLevel[world]', x=92.86, y=91.25, z=-93.70] died, message: 'Villager was squished too much'
+[01May2025 04:44:47.321] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/308, l='ServerLevel[world]', x=92.84, y=91.97, z=-93.30] died, message: 'Villager was squished too much'
+[01May2025 04:45:58.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has completed the challenge [It Spreads]

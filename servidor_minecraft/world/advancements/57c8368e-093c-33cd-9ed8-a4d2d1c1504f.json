@@ -3558,6 +3558,7 @@
       "minecraft:creeper": "2025-04-23 05:19:45 +0000",
       "minecraft:evoker": "2025-04-25 08:25:12 +0000",
       "minecraft:witch": "2025-04-25 12:16:09 +0000",
+      "minecraft:cave_spider": "2025-05-01 04:45:58 +0000",
       "minecraft:piglin": "2025-04-24 10:07:35 +0000",
       "minecraft:enderman": "2025-04-24 03:22:53 +0000",
       "minecraft:vex": "2025-04-25 08:23:28 +0000",
@@ -8591,6 +8592,12 @@
   "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
     "criteria": {
       "requirement": "2025-04-29 05:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-01 04:45:58 +0000"
     },
     "done": true
   },
