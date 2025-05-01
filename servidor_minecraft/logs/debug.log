@@ -5188,3 +5188,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01May2025 04:03:17.108] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@5c1d6102 into net.minecraft.network.Connection@55fcaa52
 [01May2025 04:03:17.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
 [01May2025 04:03:42.784] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14994, l='ServerLevel[world]', x=92.88, y=91.17, z=-93.47] died, message: 'Villager was squished too much'
+[01May2025 04:05:47.065] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[01May2025 04:05:47.120] [Server thread/INFO] [naturescompass/]: Search succeeded: 320 radius, 49 samples
+[01May2025 04:06:02.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 04:06:02.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 04:06:02.900] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3089ms or 61 ticks
+[01May2025 04:11:02.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 04:11:02.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

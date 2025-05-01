@@ -8557,12 +8557,6 @@
     },
     "done": true
   },
-  "bakery:main/get_yeast": {
-    "criteria": {
-      "get_yeast": "2025-04-29 04:57:57 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/birch_bench": {
     "criteria": {
       "has_birch_bench": "2025-04-29 04:23:04 +0000"
@@ -8584,6 +8578,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-29 04:23:04 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/get_yeast": {
+    "criteria": {
+      "get_yeast": "2025-04-29 04:57:57 +0000"
     },
     "done": true
   },
