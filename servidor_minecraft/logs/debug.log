@@ -4788,3 +4788,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [01May2025 02:10:43.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01May2025 02:10:43.608] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3039ms or 60 ticks
 [01May2025 02:11:36.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has reached the goal [Zombie Doctor]
+[01May2025 02:14:37.352] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3007ms or 60 ticks
+[01May2025 02:15:43.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 02:15:43.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 02:18:22.540] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[01May2025 02:18:22.545] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3109ms or 62 ticks
+[01May2025 02:18:25.137] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[01May2025 02:18:44.427] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/268, l='ServerLevel[world]', x=79.39, y=90.00, z=-87.57] died, message: 'Librarian was slain by Zombie batu'
+[01May2025 02:19:37.321] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/269, l='ServerLevel[world]', x=75.51, y=90.00, z=-87.43] died, message: 'Librarian was slain by Zombie batu'
+[01May2025 02:20:13.329] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/270, l='ServerLevel[world]', x=73.50, y=90.00, z=-87.30] died, message: 'Librarian was slain by Zombie batu'
+[01May2025 02:20:31.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/276, l='ServerLevel[world]', x=77.50, y=90.00, z=-87.30] died, message: 'Librarian was slain by Zombie batu'
+[01May2025 02:20:43.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 02:20:43.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 02:21:54.627] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/271, l='ServerLevel[world]', x=71.70, y=90.05, z=-86.74] died, message: 'Librarian was slain by Zombie batu'
