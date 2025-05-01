@@ -6887,6 +6887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-01 02:47:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2025-05-01 02:11:36 +0000"
