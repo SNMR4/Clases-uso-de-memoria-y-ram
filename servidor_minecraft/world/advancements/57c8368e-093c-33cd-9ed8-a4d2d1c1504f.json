@@ -8774,5 +8774,11 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_while_blinded": {
+    "criteria": {
+      "kill_while_blinded": "2025-05-03 04:41:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

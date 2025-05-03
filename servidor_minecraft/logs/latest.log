@@ -718,3 +718,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [03May2025 04:33:45.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> ni con las perlas sales
 [03May2025 04:34:07.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> nah te deja atrapado
 [03May2025 04:41:22.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Peekaboo, I (still) see you!]
+[03May2025 04:46:14.643] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3466ms or 69 ticks
+[03May2025 04:47:06.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> deje hechizos en un cofre
+[03May2025 04:47:30.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> buenos o los feos
+[03May2025 04:47:34.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> buenos
+[03May2025 04:47:47.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> Solo que yo no los uso porque están repetidos
+[03May2025 04:51:19.498] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/42694, l='ServerLevel[world]', x=-2616.70, y=88.00, z=561.30] died, message: 'Librarian was slain by Zombie'
+[03May2025 04:51:21.941] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3076ms or 61 ticks
