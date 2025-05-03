@@ -682,3 +682,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [03May2025 03:12:55.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
 [03May2025 03:14:03.450] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3170ms or 63 ticks
 [03May2025 03:26:21.924] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3241ms or 64 ticks
+[03May2025 03:52:20.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: ica_1016
+[03May2025 03:55:59.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:53953] logged in with entity id 16903 at (101.74571516515952, 111.0, -105.44683353662336)
+[03May2025 03:55:59.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[03May2025 03:56:21.969] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3224ms or 64 ticks
