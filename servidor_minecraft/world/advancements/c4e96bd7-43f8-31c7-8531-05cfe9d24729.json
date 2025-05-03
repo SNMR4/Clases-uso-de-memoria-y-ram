@@ -791,6 +791,7 @@
       "baked_potato": "2025-04-25 09:59:40 +0000",
       "porkchop": "2025-04-26 08:15:12 +0000",
       "apple": "2025-04-25 08:30:10 +0000",
+      "potato": "2025-05-03 05:33:39 +0000",
       "pumpkin_pie": "2025-04-24 02:20:42 +0000",
       "bread": "2025-04-23 04:10:03 +0000",
       "suspicious_stew": "2025-04-26 06:37:23 +0000",
@@ -10383,9 +10384,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-03 05:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-03 05:37:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-05-03 04:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-03 05:37:07 +0000"
     },
     "done": true
   },
@@ -10413,6 +10432,18 @@
     },
     "done": true
   },
+  "bakery:recipes/cake_display": {
+    "criteria": {
+      "has_glass_pane": "2025-05-03 05:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-03 05:37:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-03 04:51:56 +0000"
@@ -10425,9 +10456,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-03 05:37:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-03 04:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-03 05:37:07 +0000"
     },
     "done": true
   },
@@ -10443,6 +10486,12 @@
     },
     "done": true
   },
+  "bakery:recipes/jar": {
+    "criteria": {
+      "has_glass_pane": "2025-05-03 05:37:07 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2025-05-03 05:08:43 +0000"
@@ -10455,9 +10504,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-03 05:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-03 05:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-03 05:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-03 05:37:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-03 04:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-03 05:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-03 05:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-03 05:37:07 +0000"
     },
     "done": true
   },
