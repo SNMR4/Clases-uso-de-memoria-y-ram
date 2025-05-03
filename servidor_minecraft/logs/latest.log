@@ -725,3 +725,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [03May2025 04:47:47.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> Solo que yo no los uso porque están repetidos
 [03May2025 04:51:19.498] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/42694, l='ServerLevel[world]', x=-2616.70, y=88.00, z=561.30] died, message: 'Librarian was slain by Zombie'
 [03May2025 04:51:21.941] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3076ms or 61 ticks
+[03May2025 05:00:11.406] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/42665, l='ServerLevel[world]', x=-2621.19, y=95.00, z=619.55] died, message: 'Villager burned to death'
+[03May2025 05:01:21.744] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3032ms or 60 ticks
