@@ -4429,3 +4429,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [03May2025 04:21:31.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> para hacerselo al ferroso jaja
 [03May2025 04:21:33.151] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:telekinesis 1: [c4e96bd7-43f8-31c7-8531-05cfe9d24729]
 [03May2025 04:21:41.953] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[03May2025 04:22:26.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> pero no sé si le haga daño
+[03May2025 04:23:01.497] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:telekinesis 1: [9d278903-bead-4bbf-bec4-fc1fb3a8cd80]
+[03May2025 04:23:04.958] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [524a190a-ffcd-41f7-a4f8-2748b819bcb1]
+[03May2025 04:23:23.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> para sacarlo de su lugar y ver k pasa
+[03May2025 04:23:31.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> vamos
+[03May2025 04:23:58.756] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:telekinesis 1: [c4e96bd7-43f8-31c7-8531-05cfe9d24729]
+[03May2025 04:24:34.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> el de la barrera si quiero para ver si con eso no me pega
+[03May2025 04:25:45.155] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:telekinesis 1: [d7c3d81d-b787-4a9d-8cbb-807dc30ee48f]
+[03May2025 04:26:21.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:26:21.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:26:50.392] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:telekinesis 1: [9f0bd520-41ac-4667-ab64-6783406a844a]
+[03May2025 04:27:00.513] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3349ms or 66 ticks
+[03May2025 04:27:53.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> por cierto por k no estas en el discort
+[03May2025 04:28:04.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> ando viendo una pelicula xd
+[03May2025 04:28:42.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> ese echiso se puede hacer?
+[03May2025 04:28:48.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> si
+[03May2025 04:30:09.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> ya fuite por las eliktras?
+[03May2025 04:30:13.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> no
+[03May2025 04:30:20.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> es un hechizo
+[03May2025 04:30:37.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> te las encontraste tiradas de seguro jaja
+[03May2025 04:30:42.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> nah
+[03May2025 04:30:57.270] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [31570c5a-997b-4bf8-83e2-b5420dfa07ed]
+[03May2025 04:31:21.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:31:21.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:31:27.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> lo hice con tinta legendaria y perla divina
+[03May2025 04:32:16.718] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [7fe1cc3f-e28f-42ca-bf76-300bd08c5b38]
