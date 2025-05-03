@@ -4508,3 +4508,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [03May2025 05:01:21.744] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3032ms or 60 ticks
 [03May2025 05:01:22.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03May2025 05:01:22.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 05:05:46.058] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3480ms or 69 ticks
+[03May2025 05:06:21.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 05:06:21.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 05:06:28.533] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3074ms or 61 ticks
+[03May2025 05:08:43.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has reached the goal [Quaint Scribe]
+[03May2025 05:09:15.985] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/343, l='ServerLevel[world]', x=92.90, y=91.51, z=-93.30] died, message: 'Villager was squished too much'
+[03May2025 05:09:24.842] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3298ms or 65 ticks
+[03May2025 05:10:21.421] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} -2392 12351 12351 VisualFallingBlockEntity['Falling Tuff'/54050, l='ServerLevel[world]', x=-2391.50, y=-54.00, z=12351.50]
+[03May2025 05:10:21.476] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -2390 12350 12350 VisualFallingBlockEntity['Falling Deepslate'/54051, l='ServerLevel[world]', x=-2389.50, y=-49.00, z=12350.50]
+[03May2025 05:10:23.586] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/341, l='ServerLevel[world]', x=92.88, y=91.82, z=-93.45] died, message: 'Villager was squished too much'
+[03May2025 05:10:23.917] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -2399 12350 12350 VisualFallingBlockEntity['Falling Deepslate'/54110, l='ServerLevel[world]', x=-2398.50, y=-50.00, z=12350.50]
+[03May2025 05:11:21.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 05:11:21.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 05:11:37.084] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3053ms or 61 ticks
