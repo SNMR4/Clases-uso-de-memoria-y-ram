@@ -686,3 +686,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [03May2025 03:55:59.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:53953] logged in with entity id 16903 at (101.74571516515952, 111.0, -105.44683353662336)
 [03May2025 03:55:59.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
 [03May2025 03:56:21.969] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3224ms or 64 ticks
+[03May2025 04:01:43.783] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3017ms or 60 ticks
+[03May2025 04:04:24.282] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3022ms or 60 ticks
+[03May2025 04:12:15.019] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3221ms or 64 ticks
+[03May2025 04:14:51.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> mjorees encantamientos para casco
+[03May2025 04:15:43.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> y por cieerto creo el de aomodar cosas no funciona
+[03May2025 04:15:53.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> respiración III, protección IV, Espinas III, Irrompibilidad III, Reparación
+[03May2025 04:16:25.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> Si funciona pero solo debes asignar la tecla, no tiene interfaz
+[03May2025 04:16:50.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> en los cofres no me aparece el de acomodar
+[03May2025 04:17:09.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> Te digo que no trae boton
+[03May2025 04:17:43.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> solo asignas una tecla y al apretarla se acomoda el inventario
+[03May2025 04:19:49.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> eso lo puedes invicar aya arriba
+[03May2025 04:21:19.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> eso se puede contra mob
+[03May2025 04:21:26.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> si
+[03May2025 04:21:31.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> para hacerselo al ferroso jaja
