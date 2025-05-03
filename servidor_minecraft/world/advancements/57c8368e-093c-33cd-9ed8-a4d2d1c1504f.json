@@ -8768,5 +8768,11 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-05-03 04:31:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
