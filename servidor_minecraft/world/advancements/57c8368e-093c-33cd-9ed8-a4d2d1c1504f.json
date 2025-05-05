@@ -8768,12 +8768,6 @@
     },
     "done": true
   },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2025-05-03 05:52:36 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
       "has_phantom_trophy": "2025-05-03 04:31:30 +0000"
@@ -8783,6 +8777,12 @@
   "graveyard:graveyard/kill_while_blinded": {
     "criteria": {
       "kill_while_blinded": "2025-05-03 04:41:22 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-03 05:52:36 +0000"
     },
     "done": true
   },
