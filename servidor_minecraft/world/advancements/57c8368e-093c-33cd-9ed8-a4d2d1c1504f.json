@@ -2045,6 +2045,7 @@
       "glow_berries": "2025-04-24 07:19:44 +0000",
       "golden_carrot": "2025-04-24 09:06:55 +0000",
       "cooked_chicken": "2025-04-23 10:01:50 +0000",
+      "rabbit_stew": "2025-05-05 20:34:44 +0000",
       "carrot": "2025-04-24 07:16:14 +0000"
     },
     "done": false
@@ -8789,6 +8790,18 @@
   "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
     "criteria": {
       "requirement": "2025-05-05 20:10:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-05-05 20:20:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-05-05 20:34:44 +0000"
     },
     "done": true
   },

@@ -682,3 +682,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [05May2025 19:47:40.828] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3314ms or 66 ticks
 [05May2025 19:53:19.367] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/284, l='ServerLevel[world]', x=92.79, y=91.00, z=-93.30] died, message: 'Villager was squished too much'
 [05May2025 19:56:11.983] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3686ms or 73 ticks
+[05May2025 20:17:40.653] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3175ms or 63 ticks
+[05May2025 20:33:33.616] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/287, l='ServerLevel[world]', x=92.77, y=91.00, z=-93.30] died, message: 'Villager was squished too much'
+[05May2025 20:34:03.569] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/285, l='ServerLevel[world]', x=92.83, y=91.25, z=-93.36] died, message: 'Villager was squished too much'
+[05May2025 20:36:08.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[05May2025 20:36:08.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[05May2025 20:36:32.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:54601] logged in with entity id 14735 at (-4.143334621679202, 82.0, -34.48957123737355)
+[05May2025 20:36:32.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[05May2025 20:36:45.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[05May2025 20:36:45.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
