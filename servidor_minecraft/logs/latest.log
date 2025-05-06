@@ -45,3 +45,12 @@
 [06May2025 00:46:00.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> que boton o como era por k no me aprece
 [06May2025 00:46:34.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> ve a controles y en asignación de teclas hay un apartado que se llama inventory sorter
 [06May2025 00:47:04.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> Asignas la tecla, yo le puse "M" y ya solo señalas el inventario pones la tecla y ya
+[06May2025 00:58:37.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was decimated in AkujinPas's earthquake
+[06May2025 00:58:44.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> ALM
+[06May2025 00:59:04.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> hay más hechizos en el cofre
+[06May2025 00:59:18.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> habia uno que rebotaba
+[06May2025 00:59:30.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> como era?
+[06May2025 00:59:39.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> el de la bola electrica?
+[06May2025 00:59:42.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> como una bola de energuia
+[06May2025 01:00:02.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> quiero ver si con ese mato alas arañas atoradas en la granja
+[06May2025 01:02:09.246] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/306, l='ServerLevel[world]', x=92.82, y=91.50, z=-93.30] died, message: 'Villager was squished too much'
