@@ -5231,3 +5231,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [06May2025 02:34:36.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06May2025 02:34:51.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was obliterated by a sonically-charged shriek
 [06May2025 02:35:10.210] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3038ms or 60 ticks
+[06May2025 02:36:47.111] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3590ms or 71 ticks
+[06May2025 02:38:45.224] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3081ms or 61 ticks
+[06May2025 02:39:23.567] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [c4e96bd7-43f8-31c7-8531-05cfe9d24729]
+[06May2025 02:39:36.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 02:39:36.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 02:39:46.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> ya mataste al gato
+[06May2025 02:39:54.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> NOOOOOOOOO
+[06May2025 02:40:37.493] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3089ms or 61 ticks
+[06May2025 02:42:29.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> el de detenet el corazon para q es el encantamiento
+[06May2025 02:42:40.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was obliterated by a sonically-charged shriek
+[06May2025 02:43:12.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> anula el daño en el momento y ya cuando acaba el efecto te da parte del daño acumulado
+[06May2025 02:43:52.979] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 31
+[06May2025 02:43:52.979] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@648db31e, b=81, e=89}, net.minecraft.world.CompoundContainer@7f6493f0=InventoryMapping{i=net.minecraft.world.CompoundContainer@7f6493f0, c=net.minecraft.world.inventory.ChestMenu@648db31e, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@648db31e, b=54, e=80}}
+[06May2025 02:43:52.979] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@7f6493f0, c=net.minecraft.world.inventory.ChestMenu@648db31e, b=0, e=53}
+[06May2025 02:43:58.436] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3243ms or 64 ticks
+[06May2025 02:44:13.373] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 31
+[06May2025 02:44:13.374] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@e212dab, b=81, e=89}, net.minecraft.world.CompoundContainer@721775ba=InventoryMapping{i=net.minecraft.world.CompoundContainer@721775ba, c=net.minecraft.world.inventory.ChestMenu@e212dab, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@e212dab, b=54, e=80}}
+[06May2025 02:44:13.374] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@721775ba, c=net.minecraft.world.inventory.ChestMenu@e212dab, b=0, e=53}
+[06May2025 02:44:36.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 02:44:36.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 02:45:38.385] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3085ms or 61 ticks
+[06May2025 02:45:49.434] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [eba496f0-f878-43e4-9895-39b8f58237b5]
+[06May2025 02:46:27.367] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3387ms or 67 ticks
