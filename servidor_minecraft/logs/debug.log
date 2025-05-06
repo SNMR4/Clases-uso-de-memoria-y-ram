@@ -4386,3 +4386,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [05May2025 23:59:17.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06May2025 00:00:48.380] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:telekinesis 1: [c4e96bd7-43f8-31c7-8531-05cfe9d24729]
 [06May2025 00:01:51.117] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:telekinesis 1: [c4e96bd7-43f8-31c7-8531-05cfe9d24729]
+[06May2025 00:02:52.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> mi mana solo me alcanza para 1
+[06May2025 00:03:09.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> hazte la armadura de algún tipo
+[06May2025 00:03:19.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> que sea de mago
+[06May2025 00:03:29.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> tengo 1 pero me falta encantarla
+[06May2025 00:03:38.029] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:haste 1: [c4e96bd7-43f8-31c7-8531-05cfe9d24729]
+[06May2025 00:03:57.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> cuando la tuve enti k era muy debil como si no tuvuera de tela
+[06May2025 00:04:15.054] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3063ms or 61 ticks
+[06May2025 00:04:17.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 00:04:17.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 00:05:39.929] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:arrow_volley 1: [c4e96bd7-43f8-31c7-8531-05cfe9d24729]
+[06May2025 00:06:03.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> afuerza lo pone a 4 bloques enfrente d eti
+[06May2025 00:06:58.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> PON ESCUDO
+[06May2025 00:06:58.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> con esta armadura me haces u hcingo de daño
+[06May2025 00:07:12.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> te digo k esta no la he encantado
+[06May2025 00:07:17.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> AHYA
+[06May2025 00:07:28.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> deje las mayusculas se me olvidó
+[06May2025 00:07:55.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> pero entonces se encantan igual no tiene k ser libros espaciles o si ?
+[06May2025 00:07:58.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> atraviesa el escudo
+[06May2025 00:08:10.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> se encantan igual
+[06May2025 00:08:11.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> si
+[06May2025 00:08:31.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> no lo atraviesa
+[06May2025 00:09:11.309] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: cleanse: ServerPlayer['AkujinPas'/671, l='ServerLevel[world]', x=101.00, y=111.00, z=-120.34]
+[06May2025 00:09:16.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 00:09:17.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 00:09:17.094] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3007ms or 60 ticks
+[06May2025 00:09:56.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was punctured by AkujinPas's magic arrow
+[06May2025 00:09:59.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> xd
+[06May2025 00:11:05.793] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/307, l='ServerLevel[world]', x=92.88, y=91.28, z=-93.38] died, message: 'Villager was squished too much'
+[06May2025 00:11:34.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was eviscerated by AkujinPas's vexes
+[06May2025 00:11:51.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> te dijo q on ese no tengo proteccion
+[06May2025 00:11:58.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> es que tu amuleto saco ataques
+[06May2025 00:12:12.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> y te detecto como hostil porque me hizo daño
+[06May2025 00:12:25.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> y mi tumba
