@@ -5414,3 +5414,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [06May2025 03:46:44.483] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3221ms or 64 ticks
 [06May2025 03:48:24.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Wireless Network]
 [06May2025 03:48:37.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Danger: High Voltage]
+[06May2025 03:49:06.760] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [d6588f89-7ce7-45bf-ac5e-54ccf7868c53]
+[06May2025 03:49:56.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16938, l='ServerLevel[world]', x=92.84, y=91.40, z=-93.48] died, message: 'Villager was squished too much'
+[06May2025 03:51:44.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 03:51:44.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 03:53:15.268] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 14
+[06May2025 03:53:15.268] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5664d3b6, b=54, e=62}, net.minecraft.world.level.block.entity.ChestBlockEntity@56874d42=InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@56874d42, c=net.minecraft.world.inventory.ChestMenu@5664d3b6, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5664d3b6, b=27, e=53}}
+[06May2025 03:53:15.268] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@56874d42, c=net.minecraft.world.inventory.ChestMenu@5664d3b6, b=0, e=26}
+[06May2025 03:56:15.996] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3090ms or 61 ticks
+[06May2025 03:56:44.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 03:56:44.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 03:58:17.213] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06May2025 03:58:18.181] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 14
+[06May2025 03:58:18.181] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4df318a5, b=54, e=62}, noobanidus.mods.lootr.data.SpecialChestInventory@26d4feb5=InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@26d4feb5, c=net.minecraft.world.inventory.ChestMenu@4df318a5, b=0, e=26}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4df318a5, b=27, e=53}}
+[06May2025 03:58:18.181] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=noobanidus.mods.lootr.data.SpecialChestInventory@26d4feb5, c=net.minecraft.world.inventory.ChestMenu@4df318a5, b=0, e=26}
+[06May2025 03:59:03.438] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3102ms or 62 ticks
+[06May2025 03:59:11.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind

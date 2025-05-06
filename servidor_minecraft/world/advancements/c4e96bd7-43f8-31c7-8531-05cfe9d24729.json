@@ -385,6 +385,7 @@
       "seasonal_forest": "2025-04-28 01:12:47 +0000",
       "volcano": "2025-05-02 05:05:28 +0000",
       "pasture": "2025-04-23 04:13:32 +0000",
+      "rocky_rainforest": "2025-05-06 03:56:12 +0000",
       "volcanic_plains": "2025-04-27 04:40:19 +0000",
       "lavender_field": "2025-04-24 09:48:20 +0000",
       "pumpkin_patch": "2025-04-28 01:11:46 +0000",
@@ -10569,6 +10570,12 @@
     },
     "done": true
   },
+  "call_of_yucutan:interact_with_mirror": {
+    "criteria": {
+      "interact_with_mirror_0": "2025-05-06 03:48:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
     "criteria": {
       "has_honeycomb_block": "2025-05-06 02:33:11 +0000"
@@ -10590,6 +10597,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2025-05-06 03:05:49 +0000"
+    },
+    "done": true
+  },
+  "call_of_yucutan:get_burnt_by_light": {
+    "criteria": {
+      "get_burnt_by_light_0": "2025-05-06 03:48:37 +0000"
     },
     "done": true
   },
