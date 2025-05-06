@@ -39,3 +39,9 @@
 [06May2025 00:23:46.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> No lo he comprobado
 [06May2025 00:31:45.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 fell from a high place
 [06May2025 00:32:00.521] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3124ms or 62 ticks
+[06May2025 00:34:21.081] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3075ms or 61 ticks
+[06May2025 00:44:21.085] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3233ms or 64 ticks
+[06May2025 00:45:43.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> cual era el de acomodar los cofres
+[06May2025 00:46:00.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> que boton o como era por k no me aprece
+[06May2025 00:46:34.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> ve a controles y en asignación de teclas hay un apartado que se llama inventory sorter
+[06May2025 00:47:04.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> Asignas la tecla, yo le puse "M" y ya solo señalas el inventario pones la tecla y ya
