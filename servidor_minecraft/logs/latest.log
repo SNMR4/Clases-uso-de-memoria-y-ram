@@ -252,3 +252,10 @@
 [06May2025 03:36:22.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved too quickly! -15.316360217978058,3.0710130299829075,-9.40850350528217
 [06May2025 03:36:26.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8306ms or 166 ticks behind
 [06May2025 03:37:06.681] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3373ms or 67 ticks
+[06May2025 03:38:36.112] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3034ms or 60 ticks
+[06May2025 03:38:42.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[06May2025 03:38:56.373] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3016ms or 60 ticks
+[06May2025 03:40:23.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has completed the challenge [Grimoire of Evokation]
+[06May2025 03:46:44.483] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3221ms or 64 ticks
+[06May2025 03:48:24.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Wireless Network]
+[06May2025 03:48:37.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Danger: High Voltage]

@@ -8869,5 +8869,23 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-05-06 03:38:46 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
+    "criteria": {
+      "requirement": "2025-05-06 03:40:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-05-06 03:38:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
