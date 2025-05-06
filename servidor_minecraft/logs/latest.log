@@ -24,3 +24,15 @@
 [06May2025 00:11:58.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> es que tu amuleto saco ataques
 [06May2025 00:12:12.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> y te detecto como hostil porque me hizo daño
 [06May2025 00:12:25.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> y mi tumba
+[06May2025 00:16:40.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> vi k pusiste el mod de que cada quien tenga un cofre de botin no
+[06May2025 00:16:47.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> si
+[06May2025 00:17:15.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> pero eso es con los cofres nuevos o tambein lo sya generados?
+[06May2025 00:18:22.505] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3074ms or 61 ticks
+[06May2025 00:18:58.601] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3104ms or 62 ticks
+[06May2025 00:19:13.953] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[06May2025 00:19:18.116] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3355ms or 67 ticks
+[06May2025 00:19:22.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[06May2025 00:19:45.830] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3077ms or 61 ticks
+[06May2025 00:20:32.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[06May2025 00:20:36.427] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/343, l='ServerLevel[world]', x=92.87, y=91.31, z=-93.30] died, message: 'Villager was squished too much'
+[06May2025 00:21:58.888] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3026ms or 60 ticks
