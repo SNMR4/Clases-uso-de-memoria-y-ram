@@ -36,3 +36,6 @@
 [06May2025 00:20:32.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [06May2025 00:20:36.427] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/343, l='ServerLevel[world]', x=92.87, y=91.31, z=-93.30] died, message: 'Villager was squished too much'
 [06May2025 00:21:58.888] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3026ms or 60 ticks
+[06May2025 00:23:46.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> No lo he comprobado
+[06May2025 00:31:45.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 fell from a high place
+[06May2025 00:32:00.521] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3124ms or 62 ticks
