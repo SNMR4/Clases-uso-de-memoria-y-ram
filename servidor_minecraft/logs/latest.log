@@ -178,3 +178,6 @@
 [06May2025 02:55:30.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [06May2025 02:55:50.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [06May2025 02:56:35.258] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3037ms or 60 ticks
+[06May2025 03:01:58.991] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3378ms or 67 ticks
+[06May2025 03:03:13.295] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50918, l='ServerLevel[world]', x=92.85, y=91.36, z=-93.70] died, message: 'Villager was squished too much'
+[06May2025 03:05:22.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement ['X' Marks the Spot]
