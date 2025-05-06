@@ -79,3 +79,29 @@
 [06May2025 01:42:44.784] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3254ms or 65 ticks
 [06May2025 01:43:16.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Ferrous Wroughtnaut
 [06May2025 01:43:27.922] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3008ms or 60 ticks
+[06May2025 01:44:59.986] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3057ms or 61 ticks
+[06May2025 01:45:07.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[06May2025 01:45:12.956] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/344, l='ServerLevel[world]', x=92.80, y=91.21, z=-93.45] died, message: 'Villager was squished too much'
+[06May2025 01:45:29.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Ferrous Wroughtnaut
+[06May2025 01:45:50.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[06May2025 01:45:50.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[06May2025 01:46:14.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:55371] logged in with entity id 79715 at (110.5, 111.5, -110.5)
+[06May2025 01:46:14.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[06May2025 01:46:25.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Disconnected
+[06May2025 01:46:25.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[06May2025 01:46:28.300] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3226ms or 64 ticks
+[06May2025 01:48:12.147] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/341, l='ServerLevel[world]', x=92.85, y=91.18, z=-93.50] died, message: 'Villager was squished too much'
+[06May2025 01:48:28.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.123.99.67:40143] logged in with entity id 81294 at (541.7753601221473, 26.0, -1304.892606970371)
+[06May2025 01:48:28.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[06May2025 01:50:09.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Ferrous Wroughtnaut
+[06May2025 01:51:28.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Ferrous Wroughtnaut
+[06May2025 01:51:31.463] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3022ms or 60 ticks
+[06May2025 01:52:18.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Ferrous Wroughtnaut
+[06May2025 01:53:27.947] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3307ms or 66 ticks
+[06May2025 01:54:27.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Ferrous Wroughtnaut
+[06May2025 01:54:44.629] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3105ms or 62 ticks
+[06May2025 01:56:01.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Ferrous Wroughtnaut
+[06May2025 01:56:07.089] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3070ms or 61 ticks
+[06May2025 01:57:29.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was decimated in AkujinPas's earthquake
+[06May2025 01:57:49.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> c0mo mierdas me mataste
+[06May2025 02:05:22.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Ferrous Wroughtnaut
