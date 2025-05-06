@@ -64,3 +64,6 @@
 [06May2025 01:22:42.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> con el guarden
 [06May2025 01:22:52.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> no lo he intentado
 [06May2025 01:23:18.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> pegame
+[06May2025 01:24:47.546] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/339, l='ServerLevel[world]', x=92.81, y=91.19, z=-93.42] died, message: 'Villager was squished too much'
+[06May2025 01:27:29.464] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3004ms or 60 ticks
+[06May2025 01:33:15.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10638, l='ServerLevel[world]', x=92.83, y=91.45, z=-93.30] died, message: 'Villager was squished too much'
