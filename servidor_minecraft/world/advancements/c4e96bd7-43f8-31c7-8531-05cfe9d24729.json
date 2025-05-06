@@ -37,6 +37,8 @@
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "sugar_water_floor": "2025-05-06 02:31:53 +0000",
+      "hive_wall": "2025-05-06 02:32:16 +0000",
       "bumbling_beepartments": "2025-04-23 04:00:30 +0000"
     },
     "done": false
@@ -10562,6 +10564,48 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {
       "has_cobbled_deepslate_slab": "2025-05-06 00:35:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
+    "criteria": {
+      "has_honeycomb_block": "2025-05-06 02:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-05-06 02:34:27 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-05-06 02:31:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-05-06 02:32:08 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-05-06 02:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-05-06 02:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-05-06 02:32:08 +0000"
     },
     "done": true
   },

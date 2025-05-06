@@ -138,3 +138,17 @@
 [06May2025 02:25:35.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> me faltaba un cuadrito y me pegaba
 [06May2025 02:25:52.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> me rompio 2 escudos
 [06May2025 02:26:01.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> por eso se usaba ese para esquivar hacia los lados
+[06May2025 02:26:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> quitare el point y la cama
+[06May2025 02:29:33.002] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3017ms or 60 ticks
+[06May2025 02:29:47.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was obliterated by a sonically-charged shriek
+[06May2025 02:30:28.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was obliterated by a sonically-charged shriek
+[06May2025 02:30:33.553] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3033ms or 60 ticks
+[06May2025 02:31:38.269] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3026ms or 60 ticks
+[06May2025 02:31:51.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4374ms or 87 ticks behind
+[06May2025 02:31:53.758] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3278ms or 65 ticks
+[06May2025 02:32:15.650] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3485ms or 69 ticks
+[06May2025 02:32:15.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[06May2025 02:34:26.238] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3546ms or 70 ticks
+[06May2025 02:34:28.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Sticky Situation]
+[06May2025 02:34:51.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was obliterated by a sonically-charged shriek
+[06May2025 02:35:10.210] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3038ms or 60 ticks
