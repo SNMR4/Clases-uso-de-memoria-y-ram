@@ -1,0 +1,8 @@
+{
+  "ingredientDedupe": true,
+  "entitySectionCME": false,
+  "scoreboardDebug": false,
+  "debugItemStackModifications": true,
+  "version": 1,
+  "debugNativeImage": false
+}

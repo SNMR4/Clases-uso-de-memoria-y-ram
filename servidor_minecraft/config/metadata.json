@@ -1,0 +1,13 @@
+{
+  "id": 128,
+  "name": "FTB OceanBlock 2",
+  "uid": "01JM2K0D005QW5CNQJ6SRF7MCD",
+  "slug": "ftb-oceanblock-2",
+  "type": "release",
+  "version": {
+    "id": 100123,
+    "uid": "01K1XX11NTPFJ514PFDS69563M",
+    "name": "1.13.2",
+    "type": "release"
+  }
+}
